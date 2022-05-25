@@ -1,0 +1,989 @@
+"Incident ID","Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+2202144,"December 31, 2021",Tennessee,Memphis,"Vernon Ave",0,1,N/A
+2216125,"December 31, 2021",Pennsylvania,Johnstown,"Woodland Ave",0,1,N/A
+2201609,"December 31, 2021",Mississippi,Jackson,"St. Charles St",0,1,N/A
+2201052,"December 30, 2021",Missouri,Kirksville,"700 block of E Dodson St",3,1,N/A
+2199955,"December 29, 2021","New Jersey",Newark,"255 Broadway",0,2,N/A
+2200643,"December 29, 2021",Georgia,Atlanta,"1783 Johnson Road NW",0,1,N/A
+2200989,"December 29, 2021",Illinois,Rockford,"3300 block of Searles Ave",1,0,N/A
+2201127,"December 29, 2021",Georgia,Valdosta,"1100 Old Statenville Rd",0,3,N/A
+2199253,"December 28, 2021",Illinois,"East Saint Louis (Cahokia)","700 block St Norbert Dr",0,2,N/A
+2199601,"December 28, 2021","South Carolina",Ridgeland,"2359 Wagon Branch Loop",1,0,N/A
+2199532,"December 28, 2021",Nevada,Reno,"2625 Yori Ave",0,1,N/A
+2199856,"December 28, 2021",Alabama,Mobile,"Clark St",0,2,N/A
+2198822,"December 27, 2021",Texas,Houston,"Rankin Rd and Imperial Valley Dr",0,1,N/A
+2197452,"December 26, 2021",Texas,Livingston,"2500 block of FM 1988",0,1,N/A
+2197602,"December 26, 2021",Louisiana,"New Orleans","General De Gaulle Dr and Hendee St",1,0,N/A
+2196844,"December 25, 2021","North Carolina",Hendersonville,"Spicer Cove Rd",1,0,N/A
+2196475,"December 24, 2021",Missouri,Independence,"500 block of S Glenwood Ave",1,0,N/A
+2196727,"December 24, 2021",Florida,Orlando,"9000 block of 5th Ave",0,3,N/A
+2196740,"December 24, 2021",Texas,Cypress,"12500 Barker Cypress Rd",0,1,N/A
+2197835,"December 24, 2021",Indiana,Merrillville,"5800 block of Van Buren St",0,1,N/A
+2196666,"December 24, 2021",Illinois,Chicago,"5400 block of N Austin Ave",0,2,N/A
+2196846,"December 24, 2021",Pennsylvania,Philadelphia,"3100 block of N Patton St",0,1,N/A
+2195589,"December 23, 2021",Georgia,Atlanta,"180 Jackson St NE",0,1,N/A
+2196055,"December 23, 2021",Texas,Dallas,"N I-35 E Service Rd and E Ledbetter Dr",0,1,N/A
+2196620,"December 23, 2021",Ohio,Akron,N/A,0,2,N/A
+2194783,"December 22, 2021",Ohio,Lithopolis,"390 Westview Terr",4,0,N/A
+2194885,"December 22, 2021",Georgia,Fairburn,"200 block of Misty Walk",0,1,N/A
+2195175,"December 22, 2021",Louisiana,Jeanerette,"1400 block of Main St",1,0,N/A
+2194357,"December 21, 2021",Arkansas,"Little Rock",N/A,0,1,N/A
+2193369,"December 20, 2021",Oklahoma,"Oklahoma City","5720 NW 16th St",0,1,N/A
+2209201,"December 20, 2021",Tennessee,Memphis,"5001 Airways Blvd",0,1,N/A
+2194272,"December 20, 2021",Florida,Jacksonville,"5200 block of Dodge Rd",0,1,N/A
+2193960,"December 20, 2021",Washington,Puyallup,"10800 block of 58th Avenue Ct E",1,0,N/A
+2193058,"December 19, 2021",Pennsylvania,Harrisburg,"300 block of S 13th St",0,1,N/A
+2193522,"December 19, 2021",Illinois,Belvidere,"628 Union Ave",3,0,N/A
+2192392,"December 17, 2021",Missouri,"Saint Louis","4600 block of N 20th St",0,1,N/A
+2192261,"December 17, 2021",Texas,Lubbock,"700 block of E Ursuline St",1,0,N/A
+2190902,"December 16, 2021",Ohio,Dayton,"217 Out Belle Dr",2,0,N/A
+2190610,"December 15, 2021",Michigan,Detroit,"16000 block of Liberal St",0,1,N/A
+2190873,"December 15, 2021",California,Anaheim,"300 block of E Valencia Ave",0,1,N/A
+2190722,"December 15, 2021",Pennsylvania,Philadelphia,"2900 block of N Bambrey St",0,1,N/A
+2189825,"December 13, 2021",Indiana,Indianapolis,"10202 John Jay Dr",0,1,N/A
+2188603,"December 12, 2021",Michigan,"Benton Harbor","200 River Terrace Dr",0,2,N/A
+2187270,"December 11, 2021",Kentucky,Louisville,"4400 block of Newport Rd",1,0,N/A
+2190100,"December 11, 2021",Florida,"Fort Myers","5500 block of First Ave",0,1,N/A
+2190929,"December 11, 2021",Georgia,Monticello,N/A,1,0,N/A
+2187478,"December 11, 2021",Maryland,Baltimore,"900 block of Herndon Ct",0,1,N/A
+2186517,"December 10, 2021",Michigan,Lansing,"Miller Rd and Cedar St",1,3,N/A
+2186559,"December 10, 2021",Georgia,Atlanta,"3041 Landrum Dr SW",0,1,N/A
+2186925,"December 10, 2021",Louisiana,"Baton Rouge","River Rd and Brightside Dr",2,0,N/A
+2185903,"December 9, 2021",Georgia,Riverdale,"6000 block of Westbury Rd",1,0,N/A
+2185139,"December 8, 2021",Washington,Seattle,"14400 block of Tukwila International Blvd",0,2,N/A
+2186328,"December 8, 2021","New Mexico","Rio Rancho","5748 Sandoval Dr NE",1,0,N/A
+2184591,"December 7, 2021",Ohio,Columbus,"6652 Kodiak Dr",3,0,N/A
+2186123,"December 7, 2021",Alabama,Birmingham,"Tucker Ave",0,2,N/A
+2184486,"December 6, 2021","New York",Poughkeepsie,"32 N White St",0,1,N/A
+2183685,"December 6, 2021",California,"Los Angeles","1500 block of E Denni St",1,2,N/A
+2184845,"December 6, 2021",Wisconsin,Milwaukee,"3150 S 49th St",4,0,N/A
+2182776,"December 5, 2021",Texas,Houston,"927 Blanchard Hill Ln",0,1,N/A
+2182891,"December 5, 2021",Michigan,Detroit,"16500 block of Woodingham Dr",0,1,N/A
+2183158,"December 5, 2021",Florida,Clearwater,"1280 Druid Rd",0,1,N/A
+2182488,"December 4, 2021",Washington,"Granite Falls","8600 block of WA-92",1,0,N/A
+2182396,"December 3, 2021",Alabama,Mobile,"100 block of Dobbs Ave",0,1,N/A
+2182261,"December 3, 2021",Georgia,Lithonia,"4200 block of Chestnut Lake Ave",0,1,N/A
+2193530,"December 3, 2021","South Carolina","Moncks Corner","S Live Oak Dr",0,1,N/A
+2183429,"December 3, 2021","South Carolina","Port Royal","1650 Ribaut Rd",1,0,N/A
+2181840,"December 3, 2021",Tennessee,Memphis,"3885 Elvis Presley Blvd",2,2,N/A
+2181096,"December 2, 2021","North Carolina","Elizabeth City","Perry St and Jordan St",3,3,N/A
+2180973,"December 2, 2021",Kentucky,Louisville,"8200 block of Sandidge Dr",1,0,N/A
+2180986,"December 2, 2021",Louisiana,Shreveport,"2700 block of Elmhurst St",0,1,N/A
+2180041,"December 1, 2021",Kansas,"Kansas City","N 55th St and Georgia Ave",2,2,N/A
+2178901,"November 30, 2021",Virginia,Covington,"1600 block of E Dolly Ann Dr",1,0,N/A
+2181047,"November 30, 2021",Mississippi,"Yazoo City","740 Shady Dr",0,1,N/A
+2178231,"November 29, 2021",Kentucky,Henderson,"Powell St and S Adams St",0,1,N/A
+2177651,"November 28, 2021",Texas,"Fort Worth","100 block of N Lamar St",1,0,N/A
+2177241,"November 28, 2021",Georgia,Atlanta,"3144 Reeves Cir NW",0,3,N/A
+2177416,"November 28, 2021",California,Lancaster,"3500 block of Garnet Lane",5,0,N/A
+2176691,"November 27, 2021",Ohio,Cincinnati,"2479 Nottingham Dr",0,1,N/A
+2176729,"November 27, 2021",Texas,Hallsville,"2100 block of Young Rd",1,0,N/A
+2175721,"November 26, 2021","North Carolina",Durham,"6910 Fayetteville Rd",0,3,N/A
+2176116,"November 25, 2021",Pennsylvania,Whitehall,"3rd St and Grape St",0,1,N/A
+2176259,"November 25, 2021","South Carolina",Blackstock,"7134 Old Douglass Rd",1,0,N/A
+2175762,"November 25, 2021",Minnesota,"Minneapolis (Brooklyn Park)","8000 block of Florida Ave",1,0,N/A
+2176170,"November 25, 2021",Georgia,Atlanta,"4555 Washington Rd",1,0,N/A
+2175125,"November 25, 2021",Pennsylvania,Bally,"8500 block of Chestnut St",1,0,N/A
+2174401,"November 24, 2021","District of Columbia",Washington,"2300 block of Chester St",1,0,N/A
+2173864,"November 23, 2021",California,Pasadena,"600 block of Sunnyslope Ave",2,0,N/A
+2173281,"November 22, 2021",Pennsylvania,Pittsburgh,"100 block of Prescott Dr",1,0,N/A
+2173190,"November 22, 2021",Alabama,Mobile,"Lemon St and Qual St",0,1,N/A
+2173053,"November 22, 2021",Pennsylvania,Pittsburgh,"500 block of N Negley Ave",1,0,N/A
+2172178,"November 21, 2021","New Jersey",Passaic,"Howe Ave and Lafayette Ave",0,5,N/A
+2172821,"November 21, 2021",Florida,Orlando,"2700 Block of LB McLeod Rd",1,1,N/A
+2172201,"November 21, 2021",Wisconsin,Nasewaupee,N/A,0,1,N/A
+2172238,"November 21, 2021","North Carolina",Burlington,"1100 Block of Shaw St",0,1,N/A
+2172398,"November 21, 2021",Kentucky,Shelbyville,"72 Zelkova Dr",1,0,N/A
+2172082,"November 21, 2021",Texas,Houston,"5402 Renwick Dr",0,1,N/A
+2171859,"November 20, 2021","North Carolina",Robbins,"Cummings Rd",0,4,N/A
+2172682,"November 20, 2021",Texas,Houston,"5942 Moss Rose St",0,3,N/A
+2171764,"November 20, 2021",Michigan,Detroit,"15200 block of Evanston St",0,1,N/A
+2171766,"November 20, 2021",Tennessee,Memphis,"4465 Poplar Ave",1,1,N/A
+2171632,"November 19, 2021",Wisconsin,Milwaukee,"3500 block of N 47th St",0,1,N/A
+2170247,"November 18, 2021",Maryland,Smithsburg,"MD-418 and Midvale St",4,0,N/A
+2170871,"November 18, 2021",Alabama,Birmingham,"4500 block of 5th Ave S",0,3,N/A
+2170119,"November 18, 2021",Alabama,"Birmingham (Tarrant)","1400 block of Park Ave",0,2,N/A
+2170035,"November 18, 2021","New Hampshire",Weare,"299 N Stark Hwy",0,1,N/A
+2170073,"November 17, 2021",Pennsylvania,Philadelphia,"1700 block of S Cleveland St",0,1,N/A
+2168796,"November 16, 2021",Washington,Snohomish,"6600 block of 181st St SE",0,1,N/A
+2168581,"November 16, 2021","South Carolina",Easley,"Hillcrest Dr",0,1,N/A
+2168375,"November 16, 2021",Ohio,Columbus,"2800 block of Fleet Rd",0,1,N/A
+2168733,"November 16, 2021",Louisiana,"New Orleans","Freret St and Josephine St",0,1,N/A
+2169620,"November 16, 2021",California,Sacramento,"Seavey Cir",2,0,N/A
+2168541,"November 16, 2021","South Carolina",Newberry,"Gray St",0,1,N/A
+2169231,"November 16, 2021",Texas,"Del Rio","400 block of Rosita St",0,2,N/A
+2169160,"November 16, 2021",Florida,Miami,"Don Shula Expy and Killian Pkwy",0,1,N/A
+2167590,"November 14, 2021",Iowa,"Des Moines","800 block of SE McKinley Ave",0,1,N/A
+2167546,"November 14, 2021",Texas,"San Antonio","3644 Binz-Engleman Rd",0,1,N/A
+2166826,"November 14, 2021",Texas,Buna,"168 Bean Rd",0,2,N/A
+2167419,"November 14, 2021",California,Oakland,"7500 block of Sterling Dr",0,2,N/A
+2216410,"November 14, 2021",Pennsylvania,Tyrone,"Bald Eagle Ave",0,1,N/A
+2166371,"November 13, 2021",Georgia,Atlanta,"2060 Alison Court SW",1,0,N/A
+2165859,"November 13, 2021",Alabama,Mobile,"1200 block of Alba St",1,0,N/A
+2167270,"November 13, 2021",Georgia,Nashville,"300 block of JD Nichols Rd",1,1,N/A
+2165600,"November 12, 2021",Virginia,Richmond,"3050 Nine Mile Rd",2,2,N/A
+2166281,"November 12, 2021",Missouri,Florissant,"6800 block of Foxshire Dr",0,1,N/A
+2165583,"November 12, 2021",Kentucky,Louisville,"6817 Brooklawn Dr",0,1,N/A
+2164703,"November 11, 2021",Illinois,Chicago,"7453 S State St",0,3,N/A
+2164176,"November 10, 2021",Alabama,Birmingham,"800 block of 44th Pl N",0,1,N/A
+2163617,"November 9, 2021","South Dakota",Scotland,"710 2nd St",3,2,N/A
+2161546,"November 7, 2021","South Carolina",Greenville,"Staunton Bridge Rd",1,1,N/A
+2161734,"November 7, 2021",Oklahoma,"Oklahoma City","1301 W Hefner Rd",0,1,N/A
+2238705,"November 7, 2021",Iowa,"Iowa City","550 Foster Rd",0,1,N/A
+2161687,"November 6, 2021",Louisiana,Monroe,"400 block of Desiard St",0,2,N/A
+2161298,"November 6, 2021",Florida,Seffner,"5000 block of Pine St",0,1,N/A
+2160866,"November 6, 2021",California,Oakland,"I-880 and Filbert St",1,0,N/A
+2160274,"November 5, 2021",Illinois,Chicago,"8300 block of S Saginaw Ave",0,1,N/A
+2162918,"November 5, 2021","South Carolina","Round O","1350 Chisolm Rd",0,1,N/A
+2160142,"November 4, 2021","North Carolina",Durham,"1605 US-70 E",0,2,N/A
+2159430,"November 4, 2021",Illinois,Harvey,"15300 block of Lexington Ave",1,0,N/A
+2157502,"November 2, 2021",Louisiana,Lafayette,"2504 E Simcoe St",0,1,N/A
+2157744,"November 2, 2021",California,Willowbrook,"1300 block of E Imperial Hwy",0,1,N/A
+2156143,"November 1, 2021","North Carolina",Lenoir,"542 Willow St NW",2,1,N/A
+2156862,"November 1, 2021",Tennessee,Memphis,"2645 Davey Dr",0,2,N/A
+2156847,"November 1, 2021",Tennessee,Nashville,"2071 Oakwood Ave",1,0,N/A
+2156667,"October 31, 2021",Arkansas,"Little Rock","W 34th St",0,2,N/A
+2156031,"October 31, 2021",Texas,Houston,"500 block of Pecore St",0,2,N/A
+2155915,"October 31, 2021",Texas,Houston,"North Fwy and Loop 610",0,2,N/A
+2155789,"October 30, 2021",Michigan,"Grand Rapids","Diamond Ave NE and Michigan St NE",0,1,N/A
+2156483,"October 30, 2021","North Carolina",Roseboro,"1100 Mill Creek Church Rd",0,1,N/A
+2170476,"October 30, 2021",Florida,"Fort Pierce","100 block of Lilac Ter",1,0,N/A
+2154826,"October 30, 2021",Michigan,Lansing,"6200 S Martin Luther King Jr Blvd",0,1,N/A
+2155944,"October 30, 2021",Colorado,"Colorado Springs","1350 Pleier Dr",4,0,N/A
+2155840,"October 30, 2021",Connecticut,Bridgeport,"451 Bird St",0,3,N/A
+2154659,"October 30, 2021",Alabama,Birmingham,"12 1st Ave SW",0,1,N/A
+2154063,"October 29, 2021",Kansas,Emporia,N/A,0,1,N/A
+2241941,"October 29, 2021",Virginia,"Newport News",N/A,1,0,N/A
+2154648,"October 29, 2021","South Carolina",Columbia,"2400 block of Blue Ridge Terrace",1,0,N/A
+2153463,"October 28, 2021",Pennsylvania,Philadelphia,"1100 block of S 56th St",0,2,N/A
+2153114,"October 28, 2021",Texas,Houston,"8301 Willow Pl Dr N",1,0,N/A
+2152151,"October 26, 2021",Alabama,Greensboro,"Balsa Ave",1,0,N/A
+2152307,"October 26, 2021",Louisiana,"New Orleans","2600 block of N Claiborne Ave",0,1,N/A
+2151330,"October 26, 2021",Wisconsin,Milwaukee,"4502 N 21st St",0,1,N/A
+2150980,"October 25, 2021",Michigan,Irons,"N Oakwood Ln",0,1,N/A
+2161242,"October 25, 2021",Ohio,Cincinnati,N/A,0,1,N/A
+2151242,"October 25, 2021",Ohio,Canton,"1600 block of Royal Ave NE",1,0,N/A
+2150576,"October 25, 2021",Tennessee,Cleveland,"Hancock Rd NE",1,0,N/A
+2150048,"October 24, 2021",Michigan,"Ann Arbor","700 block of N Maple Rd",0,1,N/A
+2179741,"October 24, 2021",Wisconsin,"Florence (county)",N/A,0,1,N/A
+2149665,"October 24, 2021",Texas,"San Antonio","3500 block of Woodville Dr",0,1,N/A
+2150232,"October 24, 2021","South Carolina",Aiken,"Lawrence St",0,1,N/A
+2149787,"October 23, 2021","New York",Buffalo,"378 Massachusetts Ave",0,1,N/A
+2148532,"October 22, 2021","New Jersey",Newark,"Fairmount Ave and Springfield Ave",0,1,N/A
+2147532,"October 21, 2021",Alabama,Birmingham,"5300 block of Highland Trace Ln",0,1,N/A
+2146452,"October 19, 2021",Illinois,Chicago,"6600 block of S Seeley Ave",0,1,N/A
+2145183,"October 18, 2021",Texas,Elsa,"200 block of Begonia St",1,0,N/A
+2145544,"October 18, 2021",Texas,Austin,"5828 Abby Ann Ln",3,0,N/A
+2143811,"October 17, 2021",Alabama,Dothan,"1000 block of Grant St",0,3,N/A
+2144182,"October 17, 2021",Illinois,Joliet,"1200 block of Luther Ave",0,2,N/A
+2143542,"October 17, 2021",Ohio,Columbus,"2845 Noe Bixby Rd",0,2,N/A
+2143135,"October 17, 2021",Illinois,Chicago,"4000 block of S King Drive",0,1,N/A
+2146784,"October 17, 2021","North Carolina","Elizabeth City","Hickory Rd",1,0,N/A
+2142565,"October 16, 2021","South Carolina",Greenville,"3125 White Horse Rd",1,0,N/A
+2146135,"October 14, 2021",Wisconsin,Milwaukee,"2600 block of North 37th St",2,0,N/A
+2141906,"October 14, 2021",Ohio,Dayton,"Col Glenn Hwy",0,1,N/A
+2141201,"October 14, 2021",Illinois,Chatham,"300 block of Wintergreen Dr",1,0,N/A
+2140498,"October 12, 2021",Virginia,Suffolk,"Laurel St and Columbus Ave",0,1,N/A
+2139614,"October 12, 2021",Arkansas,Marion,"835 Blvd. Saint Germaine St",3,0,N/A
+2139670,"October 12, 2021",Kansas,Wichita,"1400 block of N Harding St",0,1,N/A
+2142113,"October 12, 2021","South Carolina",Orangeburg,"Russell St",1,0,N/A
+2141652,"October 12, 2021",Florida,Ocala,"5900 block of NW 2nd St",0,1,N/A
+2139674,"October 12, 2021",Mississippi,Meridian,"2000 block of 17th St",3,1,N/A
+2138796,"October 12, 2021",Mississippi,Clarksdale,"State St and DeSoto Ave",1,1,N/A
+2139191,"October 11, 2021",Illinois,Champaign,"N Market St and Petry Ct",0,1,N/A
+2146805,"October 11, 2021","South Carolina",Orangeburg,N/A,1,0,N/A
+2138790,"October 11, 2021","District of Columbia",Washington,"5100 block of Fitch St SE",0,1,N/A
+2137780,"October 10, 2021",Texas,Seguin,"600 block of E Rosemary Dr",0,3,N/A
+2137329,"October 9, 2021",Texas,Houston,"12800 block of Nyack Dr",0,1,N/A
+2139006,"October 9, 2021",Idaho,Grangeville,"700 block of N C St",0,1,N/A
+2136751,"October 9, 2021",Missouri,Independence,"1200 block of N Liberty St",1,0,N/A
+2135985,"October 8, 2021",Illinois,Chicago,"8400 block of S Sangamon Ave",0,2,N/A
+2135808,"October 8, 2021",Indiana,Portage,"6200 block of Old Porter Rd",0,1,N/A
+2135463,"October 7, 2021",Alabama,Fairfield,"5000 block of Ave F",0,1,N/A
+2135002,"October 7, 2021",Florida,Jacksonville,"7000 block of Linda Dr",1,0,N/A
+2136349,"October 7, 2021",Oklahoma,"Oklahoma City","3600 block of N Prospect Ave",0,2,N/A
+2133418,"October 5, 2021",Indiana,"South Bend","1100 block of Queen St",0,1,N/A
+2133726,"October 5, 2021",Texas,Houston,"3800 block of Amos St",0,1,N/A
+2133552,"October 4, 2021","North Carolina","Winston Salem (Winston-salem)",N/A,0,1,N/A
+2133125,"October 4, 2021",California,Oakland,I-580,0,1,N/A
+2133237,"October 4, 2021",Arizona,Phoenix,"N 83rd Ave and W Thomas Rd",2,0,N/A
+2131951,"October 3, 2021",California,Ramona,"24242 Sargent Rd",0,1,N/A
+2131241,"October 3, 2021",Ohio,Columbus,"2600 block of Grasmere Ave",0,1,N/A
+2131147,"October 2, 2021",Wisconsin,Milwaukee,"N Sherman Blvd and Burleigh St",1,1,N/A
+2131435,"October 2, 2021",Alabama,Auburn,"1330 Shug Jordan Pkwy",1,0,N/A
+2131252,"October 2, 2021",Pennsylvania,Harrisburg,"100 Hall Manor Pl",0,2,N/A
+2134493,"October 2, 2021",Mississippi,Grenada,"400 block of Margin St",0,1,N/A
+2139645,"October 2, 2021",Mississippi,Grenada,"400 block of Margin St",0,1,N/A
+2130050,"October 1, 2021",Tennessee,Columbia,"1200 block of Double Branch Rd",3,0,N/A
+2130336,"September 30, 2021",California,Merced,"3100 block of R St",0,2,N/A
+2129510,"September 30, 2021",Pennsylvania,Philadelphia,"5700 block of Elmwood Ave",0,2,N/A
+2129495,"September 30, 2021",Mississippi,Newton,"301 W Tatum St",0,1,N/A
+2128757,"September 28, 2021",Virginia,Dumfries,"3930 Townsquare Ct",0,1,N/A
+2128369,"September 28, 2021",Wisconsin,"Madison (Fitchburg)","5100 block of Curry Ct",1,0,N/A
+2127420,"September 28, 2021",Michigan,Saginaw,"1400 block of S Park Ave",0,2,N/A
+2127071,"September 27, 2021",Illinois,Markham,"W 157th St and Homan Ave",1,0,N/A
+2126825,"September 27, 2021",Arizona,Phoenix,"4437 S 8th Place",1,1,N/A
+2126212,"September 26, 2021",Virginia,Norfolk,"200 block of W Balview Ave",3,0,N/A
+2126133,"September 26, 2021",Pennsylvania,Pittsburgh,"Glasgow St",0,1,N/A
+2126985,"September 26, 2021",Alabama,Eufaula,"Jackson St",0,1,N/A
+2126082,"September 26, 2021",Minnesota,Minneapolis,"2400 block of Portland Ave",0,2,N/A
+2126994,"September 26, 2021","South Carolina",Columbia,"800 block of Duke Ave",0,1,N/A
+2125746,"September 25, 2021",Oregon,Salem,"Tide Ct NE and Surfwood Dr NE",0,2,N/A
+2124453,"September 23, 2021","New Mexico",Hobbs,"1200 E Broadway St",1,2,N/A
+2124262,"September 23, 2021",Connecticut,Waterbury,"Congress Ave",0,2,N/A
+2124457,"September 23, 2021",Indiana,Indianapolis,"700 block of N Elder Ave",0,1,N/A
+2124090,"September 23, 2021",Ohio,Cincinnati,"500 block of Derrick Turnbow Ave",0,2,N/A
+2124810,"September 23, 2021","New Jersey",Bridgeton,"100 block of W Broad St",0,1,N/A
+2124954,"September 23, 2021",Kansas,Wichita,"S Woodlawn St and E Lincoln St",1,2,N/A
+2123099,"September 22, 2021",Texas,Waco,"1725 N Martin Luther King Blvd",1,0,N/A
+2121831,"September 21, 2021","District of Columbia",Washington,"1500 block of Morris Rd SE",0,2,N/A
+2122083,"September 21, 2021",Ohio,Cincinnati,"3710 President Dr",0,1,N/A
+2122141,"September 21, 2021",Alabama,Mobile,"1300 N University Blvd",0,1,N/A
+2121011,"September 20, 2021","North Carolina",Charlotte,"5600 block of E Independence Blvd",0,2,N/A
+2122529,"September 20, 2021",Texas,Lubbock,"2700 block of E 9th St",0,1,N/A
+2122606,"September 20, 2021","South Dakota","Rapid City","840 N Spruce St",2,0,N/A
+2121169,"September 19, 2021","North Carolina",Wilson,"700 Lane St SE",1,2,N/A
+2119701,"September 19, 2021",Florida,Miami,"14900 block of Pierce St",0,4,N/A
+2119950,"September 19, 2021","South Carolina",Yemassee,"145 Yemassee Hwy",1,7,N/A
+2120263,"September 19, 2021",Texas,"Missouri City","15200 block of Pecan Landing Dr",0,1,N/A
+2119470,"September 18, 2021","New York",Bronx,"Teller Ave and E 172nd St",1,3,N/A
+2119384,"September 18, 2021",Michigan,Detroit,"18149 W Seven Mile Rd",0,3,N/A
+2118979,"September 18, 2021",Illinois,Chicago,"9300 block of S Escanaba Ave",0,1,N/A
+2118593,"September 17, 2021",Kansas,Lawrence,"1500 block of Wedgewood Dr",1,0,N/A
+2118180,"September 16, 2021",Oregon,Portland,"3800 block of NE 82nd Ave",0,2,N/A
+2117683,"September 16, 2021",Massachusetts,Boston,"320 Talbot Ave",0,1,N/A
+2118132,"September 16, 2021",Pennsylvania,Chester,"1516 W 9th St",0,1,N/A
+2117995,"September 16, 2021",Michigan,Lansing,"1221 W Michigan Ave",2,1,N/A
+2117926,"September 15, 2021",Arkansas,"Little Rock","1800 block of Nichols Rd",2,0,N/A
+2116971,"September 15, 2021",Ohio,Cleveland,"E 52nd St and Fleet Ave",0,1,N/A
+2134905,"September 15, 2021",Pennsylvania,Philadelphia,"3100 block of F St",0,1,N/A
+2117744,"September 14, 2021",Nevada,"North Las Vegas","3300 block of Civic Center Dr",0,1,N/A
+2116090,"September 14, 2021",Georgia,Marietta,"925 Whitlock Ave",0,2,N/A
+2115908,"September 13, 2021",Georgia,Marietta,"925 Whitlock Ave NW",0,2,N/A
+2115174,"September 13, 2021","South Carolina",Dillon,SC-57,0,2,N/A
+2115103,"September 12, 2021",Texas,Killeen,"3400 block of Barcelona Dr",0,2,N/A
+2114617,"September 12, 2021",Maryland,"District Heights (Forestville)","7614 Marlboro Pike",1,2,N/A
+2114487,"September 11, 2021",Missouri,"Saint Louis","6200 block of Chatham Ave",1,1,N/A
+2114137,"September 11, 2021","North Carolina",Pembroke,"Moss Neck Rd",0,2,N/A
+2113948,"September 11, 2021",Florida,"Opa Locka","Dunad Ave and Fisherman St",0,1,N/A
+2113318,"September 10, 2021",Georgia,Atlanta,"3041 Landrum Dr SW",0,1,N/A
+2113166,"September 10, 2021",Georgia,Macon,"3401 Houston Ave",1,0,N/A
+2111858,"September 9, 2021",Illinois,"East Saint Louis","510 Martin Luther King Dr",0,7,N/A
+2117048,"September 9, 2021",Illinois,Polo,"300 block of Franklin Rd",1,0,N/A
+2111320,"September 8, 2021","District of Columbia",Washington,"200 block of V St NW",0,1,N/A
+2111522,"September 8, 2021",Florida,Jacksonville,"7500 Block of International Village Dr",0,1,N/A
+2110143,"September 7, 2021",Ohio,"Avon Lake","32558 English Turn",4,0,N/A
+2110377,"September 7, 2021",Missouri,"Saint Louis","300 block of Lancashire Rd",0,1,N/A
+2110465,"September 7, 2021","South Carolina","North Charleston","5059 N Arco Ln",0,1,N/A
+2110670,"September 7, 2021","North Carolina",Charlotte,"2419 Richard Rozzelle Dr",1,1,N/A
+2109665,"September 6, 2021",Wisconsin,Milwaukee,"N 19th St and W Courtland Ave",0,1,N/A
+2108414,"September 5, 2021",Texas,Houston,"7518 Imogene St",4,0,N/A
+2112641,"September 5, 2021",Georgia,Morrow,N/A,0,1,N/A
+2108302,"September 5, 2021",Florida,Lakeland,"N Socrum Loop Rd and Fulton Green Rd",4,2,N/A
+2108509,"September 5, 2021",Alabama,Tuscaloosa,"4400 block of 20th St NE",1,1,N/A
+2112341,"September 5, 2021","New Jersey",Burlington,"200 block of Wood St",0,1,N/A
+2110599,"September 5, 2021",Illinois,"East Saint Louis","1328 N 44th St",1,0,N/A
+2107489,"September 3, 2021",Illinois,Chicago,"6500 block of S Ellis Ave",1,0,N/A
+2107882,"September 3, 2021","North Carolina","Winston Salem (Winston-salem)","100 Block of Martindale Rd",1,0,N/A
+2107357,"September 3, 2021",Wisconsin,Milwaukee,"3300 block of N 60th St",0,1,N/A
+2106357,"September 1, 2021",Michigan,Flint,"200 block of Damon St",0,1,N/A
+2106351,"September 1, 2021",Michigan,Lowell,"11000 block of Barnsley Rd",2,0,N/A
+2105787,"September 1, 2021",Kentucky,Louisville,"5504 Ailanthus Trail",1,0,N/A
+2107176,"September 1, 2021",Michigan,Roseville,"20000 block of Twelve Mile Rd",1,0,N/A
+2106847,"September 1, 2021",Florida,"Haines City",N/A,0,1,N/A
+2105072,"August 31, 2021","District of Columbia",Washington,"1500 block of Howard Rd SE",0,3,N/A
+2104890,"August 31, 2021",Illinois,Chicago,"600 block of W 61st St",0,1,N/A
+2104586,"August 31, 2021",Georgia,Columbus,"1500 block of Floyd Rd",0,1,N/A
+2106488,"August 30, 2021",Alabama,Sheffield,"Jackson Hwy",0,1,N/A
+2103996,"August 30, 2021",Indiana,Indianapolis,"7500 block of E 34th St",0,1,N/A
+2104404,"August 29, 2021","New Jersey",Newark,"100 block Schuyler Ave",1,0,N/A
+2102709,"August 28, 2021",Pennsylvania,Philadelphia,"2000 block of N 32nd St",0,1,N/A
+2104976,"August 27, 2021","West Virginia",Charleston,"Coopers Creek Rd",0,1,N/A
+2101258,"August 27, 2021",Indiana,Elkhart,"500 block of W High St",2,0,N/A
+2101870,"August 27, 2021",Tennessee,Memphis,"3513 Boxtown Rd",1,0,N/A
+2101835,"August 27, 2021",Michigan,Detroit,"15000 block of Littlefield St",0,2,N/A
+2101524,"August 27, 2021",Tennessee,Memphis,"1300 block of Timothy Dr",1,0,N/A
+2102082,"August 27, 2021",Pennsylvania,"Sharon Hill","300 Calcon Hook Rd",1,4,N/A
+2101044,"August 26, 2021",Mississippi,Canton,"Franklin St and Canal St",2,1,N/A
+2103642,"August 26, 2021",Michigan,Detroit,"12970 block of Pelkey St",0,1,N/A
+2100986,"August 26, 2021",Missouri,"Saint Louis","6000 block of Pennsylvania Ave",0,2,N/A
+2100326,"August 25, 2021",Indiana,Indianapolis,"3500 block of Cecil Ave",0,1,N/A
+2099265,"August 24, 2021",Maryland,"Hyattsville (Landover)","1600 block of Brightseat Rd",1,0,N/A
+2099712,"August 24, 2021","New Mexico",Clovis,"1051 NM-311",1,0,N/A
+2100283,"August 24, 2021",Louisiana,Shreveport,"2020 N Hearne Ave",0,1,N/A
+2100249,"August 24, 2021",Louisiana,Arcadia,N/A,1,0,N/A
+2098994,"August 23, 2021",Illinois,Decatur,"300 block of Burtschi Ct",0,2,N/A
+2098065,"August 23, 2021","West Virginia",Charleston,"3006 Elkdale Dr",3,1,N/A
+2098732,"August 23, 2021",Georgia,Albany,"2500 block of Hilltop Dr",1,0,N/A
+2098321,"August 22, 2021",Oregon,Portland,"322 NW Everett St",0,5,N/A
+2098606,"August 22, 2021",Texas,Houston,"900 North Loop W",0,1,N/A
+2097864,"August 22, 2021",Florida,Tampa,"Hillsborough Ave and N 43rd St",1,0,N/A
+2097639,"August 22, 2021","District of Columbia",Washington,"3500 block of Jay St NE",0,2,N/A
+2095846,"August 20, 2021",Illinois,Chicago,"400 block of E 111th St",0,2,N/A
+2096214,"August 20, 2021",Ohio,Cleveland,"3350 E 116th St",0,1,N/A
+2096154,"August 20, 2021",Ohio,Toledo,"300 block of Austin St",1,1,N/A
+2096196,"August 19, 2021",Oklahoma,"Oklahoma City","SW 44th St and S Independence Ave",0,1,N/A
+2094071,"August 18, 2021",Ohio,Youngstown,"619 Samuel Ave",2,4,N/A
+2094498,"August 18, 2021",Missouri,"Saint Louis","9100 block of Jordan St",0,2,N/A
+2094576,"August 18, 2021",Illinois,Chicago,"1000 block of N Honore St",0,1,N/A
+2095515,"August 18, 2021",Pennsylvania,Chester,"400 block of Frank Young Ave",0,1,N/A
+2094335,"August 17, 2021",Georgia,Albany,"200 block of Slater King Dr",0,1,N/A
+2093506,"August 17, 2021",Arizona,Tucson,"E Grant Rd and N Dodge Blvd",0,2,N/A
+2093789,"August 17, 2021",Missouri,"Saint Louis (Berkeley)","8000 block of Busiek Ave",0,1,N/A
+2092441,"August 16, 2021","North Carolina",Charlotte,"2100 block of Long Ridge Lane",0,1,N/A
+2093220,"August 16, 2021",California,Bakersfield,"Jeffrey St and N Tulare Ave",0,1,N/A
+2093742,"August 16, 2021",Mississippi,Magee,"445 Goshen Rd",0,1,N/A
+2091746,"August 15, 2021",Illinois,Chicago,"6200 block of W Grand Ave",1,1,N/A
+2091828,"August 15, 2021",Kentucky,Louisville,"13000 block of Lyons Ave",2,0,N/A
+2091357,"August 14, 2021",Ohio,Cincinnati,"1800 block of Forbus St",0,1,N/A
+2091891,"August 14, 2021","North Carolina","Southern Pines","800 block of S Mechanic St",0,1,N/A
+2091125,"August 14, 2021",Texas,Portland,"2111 Escondido St",3,0,N/A
+2091376,"August 14, 2021",Ohio,Akron,"2569 Romig Rd",0,1,N/A
+2092182,"August 14, 2021",California,Quincy,N/A,0,1,N/A
+2089933,"August 13, 2021",Minnesota,Bena,N/A,1,0,N/A
+2090028,"August 12, 2021",California,Richmond,"3000 block of Shane Dr",0,1,N/A
+2089279,"August 12, 2021",Michigan,Interlochen,"394 Bendon Rd",1,0,N/A
+2089069,"August 12, 2021",Texas,Amarillo,"1624 Nix St",0,1,N/A
+2089411,"August 11, 2021",Missouri,"Saint Louis","4246 Pleasant St",2,0,N/A
+2088688,"August 11, 2021",Indiana,Indianapolis,"7545 Bayview Club Dr",2,2,N/A
+2088843,"August 10, 2021",Pennsylvania,Selinsgrove,"633 8th St",0,1,N/A
+2087783,"August 10, 2021","North Carolina",Charlotte,"7201 Bevington Woods Lane",0,2,N/A
+2086543,"August 9, 2021",Missouri,"Kansas City","Elmwood Ave and E 27th St",0,1,N/A
+2086344,"August 9, 2021",Missouri,"Saint Louis","5200 block of Alabama Ave",0,3,N/A
+2085791,"August 8, 2021",Indiana,Indianapolis,"2600 block of N Harding St",0,2,N/A
+2086329,"August 8, 2021",Georgia,Albany,"1500 block of W Gordon Ave",1,0,N/A
+2087275,"August 8, 2021",Texas,Houston,"9119 Scott St",0,2,N/A
+2086545,"August 8, 2021",Tennessee,Memphis,"Fox Valley Dr",0,1,N/A
+2086012,"August 7, 2021",Mississippi,Meridian,"19th St and Old Marion Rd",1,0,N/A
+2085609,"August 7, 2021",Michigan,"Benton Harbor","800 block of Monroe St",0,1,N/A
+2084925,"August 7, 2021",Florida,Miami,"NW 17th Ave and NW 44th St",0,2,N/A
+2084427,"August 6, 2021",Illinois,Chicago,"4000 block of W Washington Blvd",0,2,N/A
+2084313,"August 6, 2021",Michigan,Lansing,"1400 block of W Miller Rd",0,1,N/A
+2084089,"August 6, 2021",Alabama,Harvest,"281 Blue Creek Dr",2,0,N/A
+2084606,"August 6, 2021",Pennsylvania,Philadelphia,"500 block of Manheim St",0,1,N/A
+2084094,"August 5, 2021",Texas,Odessa,"Andrews Hwy and W 31st St",0,1,N/A
+2083541,"August 5, 2021",Illinois,Chicago,"6400 block of S Carpenter Ave",1,0,N/A
+2082997,"August 4, 2021",Ohio,Dayton,"1000 block of Randolph St",1,0,N/A
+2083043,"August 4, 2021",Mississippi,Jackson,"4901 McWillie Cir",0,1,N/A
+2082132,"August 3, 2021",Kentucky,Louisville,"4600 block of East Indian Trail",0,1,N/A
+2082198,"August 3, 2021",Virginia,Portsmouth,"3000 block of Airline Blvd",0,1,N/A
+2082606,"August 3, 2021",Texas,Houston,"7755 W Bellfort Blvd",0,1,N/A
+2081842,"August 3, 2021",Texas,Groveton,N/A,1,0,N/A
+2081317,"August 2, 2021",Tennessee,Martin,"240 Oakland St",0,1,N/A
+2081179,"August 2, 2021",Indiana,Gary,"800 block of W 25th Ave",0,2,N/A
+2081603,"August 2, 2021",Michigan,Mancelona,N/A,1,0,N/A
+2081610,"August 2, 2021",Louisiana,"Baton Rouge","7500 block of Glenetta Ct",1,0,N/A
+2081929,"August 2, 2021",California,Fresno,"Pine Ave and Howard St",0,2,N/A
+2081118,"August 2, 2021",Virginia,Roanoke,"1644 Queen Ann Dr SE",1,0,N/A
+2081131,"August 2, 2021","South Carolina",Greenwood,"101 Heddy Rd",3,1,N/A
+2081458,"August 2, 2021",Ohio,"Dayton (Trotwood)","4900 block of Bloomfield Dr",0,1,N/A
+2082190,"August 2, 2021",Arkansas,"West Memphis","1800 block of E Barton Ave",0,1,N/A
+2080586,"August 1, 2021",Florida,Cocoa,"Kennedy Cir",0,1,N/A
+2081354,"August 1, 2021",Missouri,Independence,"200 block of E Walnut St",1,0,N/A
+2080915,"August 1, 2021","New York","Bay Shore (North Bay Shore)","Manatuck Blvd",0,1,N/A
+2081494,"August 1, 2021",Utah,Smithfield,N/A,1,0,N/A
+2080140,"August 1, 2021",Wisconsin,Milwaukee,"1307 S 9th St",1,0,N/A
+2128600,"July 31, 2021","North Carolina","High Point","I-74 and Cedar Square Rd",0,2,N/A
+2080078,"July 31, 2021","North Carolina",Oxford,"4626 Old NC 75",0,2,N/A
+2079168,"July 31, 2021",Louisiana,"New Orleans","5900 block of Boeing St",0,1,N/A
+2079271,"July 31, 2021",Indiana,Indianapolis,"1134 W 30th St",0,5,N/A
+2079064,"July 31, 2021",Ohio,Columbus,"2119 Via Da Vinci Ct",1,0,N/A
+2082874,"July 30, 2021",Oklahoma,Calera,"5251 Choctaw Rd",3,0,N/A
+2078973,"July 30, 2021",Indiana,Evansville,N/A,0,1,N/A
+2078962,"July 30, 2021",Wisconsin,Milwaukee,"N 44th St and W Hampton Ave",0,1,N/A
+2078913,"July 30, 2021",Illinois,Dolton,"1100 block of E 156th Pl",0,2,N/A
+2077570,"July 29, 2021",Florida,"Panama City (Southport)",N/A,0,1,N/A
+2077743,"July 28, 2021",Illinois,Decatur,"N Illinois St and E Division St",0,1,N/A
+2077517,"July 28, 2021",Louisiana,Minden,"700 block of Plum St",1,0,N/A
+2076887,"July 28, 2021","West Virginia",Charleston,"2222 Washington St E",0,1,N/A
+2076128,"July 27, 2021",Michigan,Saginaw,"W Genesee Ave and Avon St",0,1,N/A
+2163030,"July 27, 2021",Connecticut,Ledyard,"Kerrie Ct",0,1,N/A
+2076019,"July 27, 2021",Michigan,Detroit,"1900 block of Chene Ct",0,1,N/A
+2078162,"July 27, 2021",Washington,"Airway Heights","1013 S Aspen St",0,2,N/A
+2076114,"July 27, 2021",Connecticut,"Gales Ferry","6 Kerrie Ct",0,1,N/A
+2075277,"July 25, 2021","North Carolina","High Point","800 Block of Worth St",1,0,N/A
+2074722,"July 25, 2021",Georgia,Wrightsville,"Hightower Rd",0,1,N/A
+2073724,"July 25, 2021",Louisiana,"Baton Rouge","5600 block of Fairfields Ave",0,1,N/A
+2073759,"July 24, 2021","South Carolina",Anderson,"Phillips St",0,1,N/A
+2072717,"July 24, 2021",Texas,Houston,"4500 block of Rosemary Ln",0,1,N/A
+2073828,"July 24, 2021",Texas,Dallas,"1180 N Masters Dr",0,2,N/A
+2074453,"July 24, 2021",Mississippi,Amory,N/A,1,0,N/A
+2072226,"July 23, 2021",Virginia,Yorktown,"2900 block of George Washington Memorial Hwy",1,1,N/A
+2072338,"July 23, 2021",Missouri,"Saint Louis","8600 block of Partridge Ave",0,1,N/A
+2072334,"July 23, 2021",Tennessee,Cordova,"500 block of Wesley Woods Dr",0,1,N/A
+2071304,"July 22, 2021",Michigan,Detroit,"10300 block of W Point Ave",0,1,N/A
+2070231,"July 21, 2021",Oklahoma,Pryor,"10 N Mill St",0,2,N/A
+2070839,"July 21, 2021",Arkansas,"Little Rock","1600 block of S Elm St",0,1,N/A
+2070053,"July 21, 2021",Michigan,Saginaw,"400 block of 17th Ave",0,1,N/A
+2068988,"July 20, 2021",Alabama,Birmingham,"1800 block of Carson Rd",1,0,N/A
+2070520,"July 20, 2021",California,"San Bernardino","16th Street and E St",0,1,N/A
+2069001,"July 20, 2021",Kentucky,Louisville,"5000 block of Red Fern Rd",0,2,N/A
+2069325,"July 20, 2021",Ohio,Columbus,"1545 Sarin St",1,1,N/A
+2068093,"July 19, 2021",Kansas,"Pretty Prairie","Sun City Rd and Yoder Rd",0,1,N/A
+2067698,"July 18, 2021",Tennessee,Westmoreland,"Fairfield Rd",1,0,N/A
+2067682,"July 18, 2021",Iowa,Waterloo,"100 block of Argyle St",0,1,N/A
+2067307,"July 18, 2021",Texas,Tomball,"12600 block of TX-249",0,1,N/A
+2066290,"July 18, 2021",Illinois,Chicago,"2000 block of W 83rd St",0,2,N/A
+2065849,"July 17, 2021",Texas,Houston,"12550 Kuykendahl Rd",0,2,N/A
+2067771,"July 17, 2021",Mississippi,Hickory,MS-503,1,0,N/A
+2066792,"July 17, 2021",Illinois,Rockford,"2900 block of Carol Pl",0,2,N/A
+2066927,"July 17, 2021",California,Arvin,"North Hill St",1,2,N/A
+2066102,"July 17, 2021",Alabama,Montgomery,N/A,1,0,N/A
+2066168,"July 17, 2021",Pennsylvania,Philadelphia,"238 N 50th St",0,2,N/A
+2064927,"July 16, 2021",Ohio,Columbus,"1075 Seymour Ave",0,1,N/A
+2065526,"July 16, 2021",Michigan,Saginaw,"2506 Hampshire St",0,1,N/A
+2159198,"July 16, 2021",Tennessee,Memphis,"Ridgeway Rd",1,0,N/A
+2065588,"July 16, 2021",Michigan,Wyoming,"2500 block of Waldon Woods Dr SW",0,1,N/A
+2065286,"July 16, 2021",Texas,"Port Arthur","2100 block of Evergreen Dr",0,1,N/A
+2064647,"July 16, 2021",Minnesota,Minneapolis,"2700 block of N Thomas Ave",0,1,N/A
+2065395,"July 16, 2021",Wisconsin,Milwaukee,"3800 block of N 41st St",0,2,N/A
+2064992,"July 16, 2021","District of Columbia",Washington,"2900 block of MLK Ave SE",1,5,N/A
+2063719,"July 15, 2021",Ohio,Lorain,"2300 block of W 24th St",0,1,N/A
+2063700,"July 15, 2021",Illinois,Decatur,"1300 block of E Hickory St",0,1,N/A
+2065236,"July 15, 2021",Georgia,Decatur,"Woodford St and Walnut St",0,1,N/A
+2063203,"July 14, 2021",Kansas,Wichita,"2300 block of E MacArthur Rd",0,2,N/A
+2062568,"July 14, 2021",Tennessee,Memphis,"3100 block of Sharpe Ave",0,1,N/A
+2062831,"July 13, 2021",Ohio,"Maple Heights","19700 block of Maple Heights Blvd",1,0,N/A
+2061553,"July 13, 2021",Illinois,Chicago,"1500 block of N Tripp Ave",0,2,N/A
+2060351,"July 12, 2021",Tennessee,Nashville,"3000 block of Bray Dr",0,1,N/A
+2060511,"July 12, 2021",Illinois,Chicago,"3700 block of W 16th St",0,1,N/A
+2061324,"July 12, 2021",Tennessee,Memphis,"5587 Berryman Dr",1,0,N/A
+2059955,"July 11, 2021",Louisiana,"Baton Rouge","Airline Hwy and Greenwell Springs Rd",0,2,N/A
+2060009,"July 11, 2021",Wisconsin,Milwaukee,"N 77th St and W Melvina St",0,1,N/A
+2058924,"July 10, 2021",Texas,"Wichita Falls","3917 Cynthia Ln",0,1,N/A
+2060240,"July 10, 2021",Minnesota,"Sauk Centre","36000 block of Co Rd 171",0,3,N/A
+2058837,"July 10, 2021",Ohio,Springfield,"405 S Burnett Rd",1,3,N/A
+2058597,"July 9, 2021",Minnesota,Minneapolis,"3300 block of Emerson Ave N",0,2,N/A
+2059286,"July 9, 2021",Utah,"Heber City","2790 N Commons Blvd",1,0,N/A
+2058232,"July 9, 2021",Oklahoma,Sayre,"100 block of W Main St",1,0,N/A
+2058307,"July 8, 2021",Florida,Quincy,"427 S Stewart St",0,2,N/A
+2057472,"July 8, 2021",Mississippi,Jackson,"Coronet Pl and Cummins St",1,0,N/A
+2056131,"July 7, 2021",Iowa,Davenport,"3200 block of McKinley Ave",0,1,N/A
+2209052,"July 7, 2021",Tennessee,Memphis,"7600 block of Nash Dr",1,0,N/A
+2055773,"July 7, 2021",Illinois,Chicago,"S Corliss Ave and E 32nd St",1,0,N/A
+2055926,"July 7, 2021",Tennessee,Goodlettsville,"100 block of Elizabeth Ct",1,0,N/A
+2055374,"July 6, 2021",Colorado,"Manitou Springs","141 Manitou Ave",1,0,N/A
+2056983,"July 6, 2021",California,Gilroy,"8th  St and Eigleberry St",0,1,N/A
+2055057,"July 6, 2021",Virginia,Halifax,"5100 block of Halifax Rd",1,0,N/A
+2055360,"July 6, 2021",Tennessee,Memphis,"4769 Haven Ct",0,1,N/A
+2053792,"July 5, 2021",Virginia,Norfolk,"400 block of St Pauls Blvd",0,1,N/A
+2054300,"July 5, 2021",Texas,Waco,"700 block of Reynolds St",0,1,N/A
+2053262,"July 5, 2021",Ohio,Toledo,"Lawrence Ave and Wall St",1,11,N/A
+2053951,"July 5, 2021",Illinois,Elgin,"500 block of Grace St",0,2,N/A
+2053741,"July 5, 2021",Missouri,"Saint Louis (Clayton)","Gentry Ave and Goetz Ave",0,3,N/A
+2055388,"July 5, 2021",Indiana,Lafayette,"3055 Mount Ct",2,0,N/A
+2055252,"July 5, 2021","New York",Buffalo,"50 block of Donovan Dr",1,3,N/A
+2055317,"July 5, 2021",Iowa,Algona,"418 S Harlan St",3,0,N/A
+2053082,"July 5, 2021",Illinois,Chicago,"118 E 119th Pl",0,2,N/A
+2052815,"July 4, 2021",Illinois,Chicago,"11700 S Normal Ave",0,1,N/A
+2053682,"July 4, 2021",Virginia,Suffolk,"100 block of S 5th St",0,1,N/A
+2053563,"July 4, 2021",Illinois,Rantoul,"400 block of S Maplewood Dr",0,5,N/A
+2053723,"July 4, 2021",Louisiana,Bastrop,"9000 block of Carbon Plant Rd",1,0,N/A
+2053255,"July 4, 2021",Tennessee,Knoxville,"3900 block of Alma Ave",1,0,N/A
+2054024,"July 4, 2021","New Jersey",Vineland,"700 block of W Earl Dr",1,0,N/A
+2053110,"July 4, 2021",Illinois,Chicago,"900 block of W 95th St",0,2,N/A
+2052990,"July 4, 2021",Texas,Austin,"9971 Quail Blvd",0,2,N/A
+2053324,"July 4, 2021",Tennessee,Memphis,"736 N Montgomery St",1,2,N/A
+2053575,"July 4, 2021","District of Columbia",Washington,"3500 block of 11th St NW",0,1,N/A
+2057389,"July 4, 2021",Arkansas,"Pine Bluff","E 21st and S Georgia St",0,1,N/A
+2052236,"July 3, 2021",Illinois,Dolton,"15100 block of S King Dr",0,1,N/A
+2052206,"July 3, 2021",Missouri,"Kansas City","The Paseo and E 68th St",0,2,N/A
+2052128,"July 3, 2021",Alabama,"Birmingham (Ensley)","1801 Avenue V",0,1,N/A
+2052336,"July 3, 2021",Indiana,"South Bend","18011 Cleveland Rd",0,1,N/A
+2052296,"July 3, 2021","South Carolina",Florence,"600 block of Roberts St",0,1,N/A
+2050836,"July 2, 2021",Virginia,Norfolk,"923 Madison Ave",0,4,N/A
+2051251,"July 2, 2021",Missouri,"Saint Louis","4200 block of W Evans Ave",0,1,N/A
+2051085,"July 2, 2021",Minnesota,Minneapolis,"3400 block of Colfax Ave N",0,1,N/A
+2051331,"July 2, 2021",Oklahoma,"Oklahoma City (Moore)","2306 Tyler Ln",0,1,N/A
+2050910,"July 1, 2021",Texas,Houston,"8200 block of Millicent St",0,1,N/A
+2049916,"July 1, 2021",Texas,Houston,"11212 Westpark Dr",1,1,N/A
+2050593,"July 1, 2021",Illinois,Chicago,"6500 block of S Halsted St",0,7,N/A
+2050144,"July 1, 2021",Illinois,Chicago,"800 block of E 79th St",0,2,N/A
+2050160,"July 1, 2021",Missouri,"Saint Louis","4000 block of Ohio Ave",0,2,N/A
+2050397,"July 1, 2021",Pennsylvania,Philadelphia,"5500 block of Whitby Ave",1,0,N/A
+2049782,"July 1, 2021",Illinois,Chicago,"11300 block of S Wentworth Ave",1,2,N/A
+2050257,"July 1, 2021",Ohio,Columbus,"462 S Eureka Ave",1,0,N/A
+2051370,"July 1, 2021",Missouri,"West Plains","Co Rd 3010",1,0,N/A
+2050353,"July 1, 2021",Virginia,Chesapeake,"1200 block of Seaboard Ave",2,2,N/A
+2049997,"June 30, 2021",California,Vallejo,"800 block of Sonoma Blvd",0,2,N/A
+2049845,"June 30, 2021",Texas,Houston,"12101 Fondren Rd",3,1,N/A
+2050433,"June 30, 2021",Missouri,"Saint Louis (Jennings)","5400 block of Hamilton Ave",1,0,N/A
+2049907,"June 30, 2021",Louisiana,Marrero,"6500 block of Lapalco Blvd",0,4,N/A
+2050506,"June 30, 2021",Mississippi,Meridian,"4300 block of Highland Park Dr",0,2,N/A
+2049547,"June 30, 2021","New Jersey",Newark,"412 Holiday Ct",0,1,N/A
+2048499,"June 29, 2021",Pennsylvania,Erie,"9656 Sampson Rd",3,0,N/A
+2047863,"June 29, 2021","New York",Syracuse,"1916 S Salina St",0,3,N/A
+2047704,"June 28, 2021","North Carolina",Statesville,"316 New Bern Ave",0,1,N/A
+2047911,"June 28, 2021",Pennsylvania,Harrisburg,"1400 block of Berryhill St",1,1,N/A
+2047696,"June 28, 2021","North Carolina",Statesville,"1309 Wilson Lee Blvd",1,1,N/A
+2046962,"June 27, 2021",California,Fresno,"E Atchison St and S Plumas St",0,1,N/A
+2046947,"June 27, 2021",Ohio,Columbus,"5708 Forest Hills Blvd",0,1,N/A
+2045816,"June 26, 2021",California,Fresno,"Clinton Ave and Crystal Ave",1,0,N/A
+2045972,"June 26, 2021",Pennsylvania,Philadelphia,"1400 block of W Pacific St",1,0,N/A
+2050475,"June 26, 2021",Missouri,"Kansas City","3319 E 30th St",0,1,N/A
+2045043,"June 25, 2021",Ohio,Columbus,"I-670 and Neil Ave",0,4,N/A
+2045604,"June 25, 2021",Illinois,Burbank,"8300 block of Laramie Ave",1,0,N/A
+2045357,"June 25, 2021",Ohio,Cleveland,"1000 block of Greenwich Ave",0,2,N/A
+2045253,"June 24, 2021",Louisiana,"New Orleans","3100 block of Pauger St",0,1,N/A
+2044225,"June 24, 2021",Michigan,Kalamazoo,"1100 block of Lake St",1,0,N/A
+2043465,"June 23, 2021","New York",Buffalo,"114 Hickory St",0,4,N/A
+2044288,"June 23, 2021",Mississippi,Columbus,"1500 block of 26th St N",2,0,N/A
+2045609,"June 23, 2021",Georgia,Decatur,"2566 Whites Mill Rd",0,1,N/A
+2042725,"June 22, 2021",Virginia,Richmond,"5600 block of Petoskey Ave",0,1,N/A
+2041500,"June 21, 2021",Illinois,Chicago,"6500 block of S Ellis Ave",0,2,N/A
+2042148,"June 21, 2021",Texas,Houston,"15400 block of Bammel Field Ct",0,1,N/A
+2040793,"June 20, 2021",Ohio,Canton,"6817 Salerno St NW",4,0,N/A
+2040489,"June 20, 2021",Ohio,Toledo,"2700 block of Fellows Ave",1,2,N/A
+2040443,"June 20, 2021",Texas,Houston,"2210 W Dallas St",0,3,N/A
+2040348,"June 20, 2021",Michigan,Detroit,"Plymouth Rd and Saint Marys St",0,3,N/A
+2040374,"June 20, 2021",Texas,Dallas,"4619 E. R L Thornton Freeway",0,8,N/A
+2041021,"June 20, 2021",Missouri,"Saint Louis","4200 block of CD Banks Ave",0,2,N/A
+2041012,"June 19, 2021",Mississippi,Meridian,"920 42nd Ave",0,1,N/A
+2039646,"June 19, 2021",Pennsylvania,Philadelphia,"1600 block of N 55th St",2,1,N/A
+2040927,"June 19, 2021",California,Bakersfield,"502 Dr Martin Luther King Jr Blvd",0,3,N/A
+2040002,"June 19, 2021",Colorado,Aurora,"14301 E Tennessee Ave",0,2,N/A
+2037930,"June 17, 2021",Michigan,Detroit,"I-75 and E McNichols Rd",1,1,N/A
+2037520,"June 17, 2021",Arizona,Surprise,"N 115th Ave and Bell Rd",1,4,N/A
+2037995,"June 17, 2021",Maine,Temple,"15 Forest Hill Rd",1,0,N/A
+2038933,"June 17, 2021",Virginia,Woodbridge,"2700 block of Yosocomico Ln",0,1,N/A
+2037363,"June 16, 2021",Indiana,Indianapolis,"1100 block of Knox St",0,1,N/A
+2037226,"June 16, 2021","North Carolina",Whitsett,"700 block of Nellie Gray Pl",1,0,N/A
+2037001,"June 15, 2021",California,"Los Angeles","200 block of E 102nd St",1,1,N/A
+2035964,"June 15, 2021",Florida,Jacksonville,"10300 block of Allene Rd",1,0,N/A
+2035832,"June 15, 2021",Kansas,Topeka,"800 block of SW 11th St",0,1,N/A
+2035701,"June 14, 2021",Ohio,Toledo,"200 block of Earlwood Ave",0,1,N/A
+2034775,"June 13, 2021",Ohio,Columbus,"816 Greenfield Dr",0,2,N/A
+2034394,"June 13, 2021",Indiana,Lafayette,"350 US-52",0,1,N/A
+2033123,"June 12, 2021",Ohio,Cincinnati,"McHenry Ave and Cavanaugh Ave",0,5,N/A
+2032300,"June 12, 2021",Texas,Houston,"4500 block of Hershe St",0,1,N/A
+2032480,"June 12, 2021",Michigan,Saginaw,"3000 Birch Park Dr",0,1,N/A
+2033295,"June 12, 2021",Ohio,Columbus,"328 Westpot Dr",0,2,N/A
+2031976,"June 11, 2021",Georgia,Savannah,"200 block of Avery St",2,6,N/A
+2032624,"June 11, 2021",Georgia,Atlanta,"1600 block of Abner Terrace",0,1,N/A
+2032282,"June 11, 2021",Texas,Dallas,"378 N Jim Miller Rd",0,5,N/A
+2032356,"June 11, 2021",Wisconsin,Milwaukee,"2751 N 40th St",0,1,N/A
+2032393,"June 11, 2021",Florida,"Port Saint Lucie","1622 SE Green Acres Cir",0,1,N/A
+2030720,"June 10, 2021",Michigan,Detroit,"1600 block Calvert Ave",1,3,N/A
+2030786,"June 10, 2021",Florida,Tallahassee,"2500 block of Holton St",0,1,N/A
+2030484,"June 10, 2021",Florida,"Royal Palm Beach","1180 Royal Palm Beach Blvd",3,0,N/A
+2031217,"June 10, 2021","North Carolina",Charlotte,"3700 block of Carlyle Dr",0,1,N/A
+2030708,"June 10, 2021",Illinois,Chicago,"6530 S Claremont Ave",1,4,N/A
+2030951,"June 10, 2021",Pennsylvania,Pittsburgh,"7100 block of Frankstown Ave",0,1,N/A
+2030878,"June 9, 2021","South Carolina","Leesville (Batesburg-leesville)","700 block of Madera Rd",1,1,N/A
+2030718,"June 9, 2021",Michigan,Westland,"29000 block of Powers St",0,1,N/A
+2030118,"June 9, 2021",Tennessee,Memphis,"830 Bartlett Rd",0,1,N/A
+2029054,"June 8, 2021",Illinois,Chicago,"W 54th St and S Morgan St",0,1,N/A
+2028527,"June 8, 2021",Florida,Tampa,"E Frierson Ave",0,1,N/A
+2029170,"June 8, 2021",Mississippi,Vicksburg,"Elizabeth Cir",1,0,N/A
+2027046,"June 7, 2021",Florida,Homestead,"12550 SW 282nd St",3,3,N/A
+2027020,"June 6, 2021",Illinois,Chicago,"11700 block of S Michigan Ave",0,1,N/A
+2027114,"June 6, 2021",Florida,Orlando,"8775 Wellesley Lake Dr",1,2,N/A
+2027074,"June 6, 2021",Michigan,Detroit,"10000 block of Whittier Ave",0,1,N/A
+2026297,"June 6, 2021",Mississippi,Biloxi,"2490 S Shore Dr",3,0,N/A
+2028898,"June 5, 2021",Michigan,Ypsilanti,"1300 block of Candlewood Lane",0,1,N/A
+2026587,"June 5, 2021","North Carolina",Charlotte,"9500 block of Isaac Hunter Dr",0,1,N/A
+2025887,"June 5, 2021","New York","Corona (Queens)","342 Beach 45th St",1,1,N/A
+2025662,"June 4, 2021",Wisconsin,Milwaukee,"2400 block of S 11th St",0,2,N/A
+2024904,"June 4, 2021",Georgia,Atlanta,"3000 Continental Colony Pkwy SW",0,1,N/A
+2025297,"June 4, 2021",Texas,Dallas,"1400 block of Stardale Ln",1,0,N/A
+2024086,"June 3, 2021",Arkansas,"Little Rock","16th St and Johnson St",0,1,N/A
+2024806,"June 3, 2021",Tennessee,Memphis,"Sweet Springs Dr",0,1,N/A
+2024076,"June 3, 2021",Florida,Tallahassee,"2833 S Adams St",0,1,N/A
+2024131,"June 3, 2021",Missouri,"Saint Louis","5800 block of Selber Ct",0,1,N/A
+2022551,"June 2, 2021",Illinois,Joliet,"201 S Eastern Ave",1,0,N/A
+2023091,"June 2, 2021",Mississippi,Canton,"117 S Hargon St",1,0,N/A
+2036846,"June 1, 2021",Virginia,"Newport News","800 block of 23rd St",0,1,N/A
+2022485,"June 1, 2021",Illinois,Chicago,"5201 W Congress Pkwy",0,2,N/A
+2020935,"May 31, 2021",Ohio,Dayton,"Summit Square Dr",0,1,N/A
+2021247,"May 31, 2021",Louisiana,"Baton Rouge","2225 College Dr",3,0,N/A
+2022418,"May 31, 2021",Texas,Fredericksburg,"1500 block of S US Hwy 87",1,1,N/A
+2020627,"May 30, 2021",Florida,"Opa Locka","2300 block of Rutland St",0,1,N/A
+2022444,"May 30, 2021",Florida,Arcadia,N/A,0,1,N/A
+2019315,"May 29, 2021","North Carolina",Reidsville,"300 block of North West Market St",0,1,N/A
+2019948,"May 29, 2021",Tennessee,Chattanooga,"3400 block of Plumwood Rd",0,1,N/A
+2021816,"May 29, 2021",Texas,Houston,"700 Dunham Rd",0,1,N/A
+2019882,"May 29, 2021",Texas,"San Antonio","Rigsby Ave and S E Loop 410",0,1,N/A
+2019032,"May 28, 2021",Texas,Dallas,"300 block of Buttercup Ln",0,1,N/A
+2017580,"May 27, 2021",Texas,"Fort Worth","3700 block of Seven Gables St",0,2,N/A
+2016051,"May 26, 2021",Indiana,Indianapolis,"9700 block of E 42nd St",0,1,N/A
+2017226,"May 26, 2021",Mississippi,"Moss Point","Hilma St",0,2,N/A
+2017034,"May 26, 2021",Texas,Houston,"600 E Anderson Rd",0,1,N/A
+2017952,"May 26, 2021",Missouri,"Saint Louis","4200 block of Evans Ave",0,1,N/A
+2016670,"May 25, 2021",California,Oxnard,"1200 block of S N St",0,1,N/A
+2015638,"May 25, 2021",Mississippi,Jackson,"4125 Sunset Dr",0,1,N/A
+2016491,"May 25, 2021",Mississippi,"Sidon (Rising Sun)","Champagne St",1,1,N/A
+2014089,"May 24, 2021",Florida,Orlando,"1700 block of Knotting Hill Dr",0,1,N/A
+2014085,"May 24, 2021",Kansas,Wichita,"3100 block of S Yale St",0,1,N/A
+2012493,"May 22, 2021",Alabama,Birmingham,"1st Ave N and 83rd St N",1,2,N/A
+2013405,"May 22, 2021",Virginia,Petersburg,"633 Pecan St",0,2,N/A
+2012104,"May 22, 2021",Tennessee,Memphis,"3327 N Watkins St",1,0,N/A
+2013072,"May 22, 2021",Kentucky,Louisville,"800 block of South 36th St",0,3,N/A
+2012567,"May 22, 2021",Washington,"Seattle (Seatac)","15200 block of 30th Ave S",1,2,N/A
+2013010,"May 22, 2021",Texas,"San Angelo","1516 Rio Concho Dr",0,3,N/A
+2011263,"May 21, 2021",Kentucky,Lexington,"1800 block of Marietta Dr",0,2,N/A
+2010753,"May 21, 2021",California,Orange,SR-55,1,0,N/A
+2016384,"May 21, 2021",Georgia,Atlanta,"Alison Ct SW",0,1,N/A
+2013913,"May 21, 2021",Florida,"Fort Lauderdale","520 SE 5th Ave",2,0,N/A
+2011854,"May 21, 2021",Florida,Lakeland,"S Wabash Ave and Ariana St",0,1,N/A
+2009832,"May 20, 2021",Florida,"Saint Petersburg","2300 block of 7th St S",0,1,N/A
+2009796,"May 20, 2021",Michigan,Saginaw,"1800 block of N Bond St",0,1,N/A
+2010726,"May 20, 2021",Missouri,"Saint Louis","3800 block of Eichelberger St",0,1,N/A
+2009214,"May 19, 2021","New York","Corona (Queens)","119-37 178th St",0,3,N/A
+2009102,"May 19, 2021",California,Fresno,"655 W Olive Ave",0,2,N/A
+2008830,"May 19, 2021","North Carolina",Lumberton,"102 Denver St",0,3,N/A
+2008909,"May 18, 2021","District of Columbia",Washington,"1500 block of 10th St NW",0,2,N/A
+2009257,"May 18, 2021",Ohio,Galion,N/A,1,0,N/A
+2008375,"May 18, 2021",Alabama,"Birmingham (Ensley)","1400 block of Warrior Rd",0,3,N/A
+2007416,"May 17, 2021",Minnesota,Minneapolis,"N 35th Ave and Penn Ave N",1,1,N/A
+2007418,"May 17, 2021",Maryland,Bowie,"16501 Governor Bridge Rd",1,0,N/A
+2006594,"May 17, 2021",Alabama,Maylene,"308 Goldilocks Ln",1,0,N/A
+2007353,"May 17, 2021",Pennsylvania,Philadelphia,"3800 block of Wyalusing Ave",0,1,N/A
+2007170,"May 16, 2021",Ohio,Akron,"700 block of Clay St",0,1,N/A
+2005776,"May 16, 2021",Georgia,Atlanta,"630 Travis St NW",0,4,N/A
+2006353,"May 16, 2021",Maryland,"Capitol Heights","1600 block of Brooks Dr",0,1,N/A
+2012739,"May 16, 2021",Indiana,Peru,"2934 S 300 W",3,0,N/A
+2006294,"May 16, 2021",Arizona,Tempe,"S Rural Rd and E Baseline Rd",1,0,N/A
+2006082,"May 16, 2021",Missouri,"Saint Louis","5513 Davison Ave",0,2,N/A
+2005217,"May 15, 2021",Minnesota,Minneapolis,"2200 block of Ilion Ave N",1,0,N/A
+2004305,"May 14, 2021",Arkansas,"West Memphis","Holiday Dr and Wilson Rd",0,1,N/A
+2004845,"May 14, 2021",Wisconsin,Milwaukee,"N 48th St and W Marion St",0,1,N/A
+2004384,"May 14, 2021",Illinois,Chicago,"2800 block of W 26th St",0,1,N/A
+2003588,"May 13, 2021",Missouri,Union,"700 block of Star Circle",1,0,N/A
+2003492,"May 13, 2021",Illinois,Chicago,"1800 block of S Kildare Ave",0,1,N/A
+2003839,"May 13, 2021",Florida,Tampa,"30th Ave and 54th St N",0,1,N/A
+2002339,"May 12, 2021",Indiana,Indianapolis,"3200 block of Brookside Pkwy S Dr",0,1,N/A
+2008768,"May 11, 2021",Michigan,Flint,"500 block of Josephine St",0,1,N/A
+2001692,"May 11, 2021",Florida,Orlando,"5200 N Orange Blossom Trl",0,1,N/A
+2000582,"May 10, 2021",Tennessee,Memphis,"2880 S Advantage Way",0,1,N/A
+2000187,"May 10, 2021",Indiana,"South Bend","53880 Generations Dr",0,1,N/A
+2001500,"May 10, 2021",Texas,Austin,"1515 Wickersham Ln",0,1,N/A
+2000850,"May 10, 2021",Maryland,"Laurel (Maryland City)","200 block of Federalsburg S",3,1,N/A
+2001411,"May 10, 2021",Texas,Dallas,"3915 Linfield Rd",0,1,N/A
+1999663,"May 9, 2021",Tennessee,Memphis,"1750 Boxtown Rd",1,2,N/A
+1999374,"May 9, 2021","North Carolina",Lawndale,"Douglas St",0,1,N/A
+2000363,"May 9, 2021",Texas,"San Antonio","4000 block of W Commerce St",1,1,N/A
+1998873,"May 8, 2021",Tennessee,Memphis,"2280 Park Ave",0,2,N/A
+2001407,"May 8, 2021",Alabama,"Mobile (Prichard)","Foch St",0,1,N/A
+1998563,"May 8, 2021","New York","New York (Manhattan)","W 44th St and Seventh Ave",0,3,N/A
+1999088,"May 8, 2021",Wisconsin,Milwaukee,"3214 W Michigan St",1,0,N/A
+1997944,"May 7, 2021",Virginia,Norfolk,"7900 block of Diggs Rd",0,1,N/A
+1998159,"May 7, 2021",Alabama,Birmingham,"4730 Avenue T",0,1,N/A
+1997836,"May 7, 2021",Texas,"San Antonio","1303 Rigsby Ave",0,1,N/A
+1997489,"May 7, 2021",Florida,Pensacola,"4101 W Navy Blvd",1,0,N/A
+1998082,"May 7, 2021",Pennsylvania,Pittsburgh,"700 block of Anaheim St",0,1,N/A
+1998108,"May 7, 2021",Florida,Clewiston,"940 W Sugarland Hwy",1,1,N/A
+1997036,"May 6, 2021",Louisiana,Opelousas,"200 block of Coleman St",0,1,N/A
+1996035,"May 5, 2021",Ohio,Columbus,"1837 S 5th St",0,1,N/A
+1995843,"May 4, 2021",Michigan,Pontiac,"600 block of Lebaron Ave",0,2,N/A
+1996148,"May 4, 2021",Pennsylvania,"East Stroudsburg","2000 block of Vista Cir",1,0,N/A
+1994636,"May 4, 2021",Florida,Suwannee,"23556 SE 349 Hwy",3,0,N/A
+1995141,"May 4, 2021",Pennsylvania,"Mc Kees Rocks (Mckees Rocks)","Locust St",0,1,N/A
+1994477,"May 3, 2021",Florida,Homestead,"25801 S Dixie Hwy",1,1,N/A
+1993617,"May 3, 2021",Louisiana,"Baton Rouge","2000 block of Richland St",4,0,N/A
+1993442,"May 2, 2021",Maryland,Annapolis,"50 block of Bens Dr",0,1,N/A
+1993579,"May 2, 2021","North Carolina",Statesville,"Old Wilkesboro Rd",0,1,N/A
+1992926,"May 1, 2021","North Carolina","Rocky Mount","Westwood Dr and York St",0,1,N/A
+1992159,"May 1, 2021","District of Columbia",Washington,"3500 block of Jay St NE",0,1,N/A
+1991693,"April 30, 2021","New Jersey",Trenton,"207 Perry St",0,3,N/A
+1991363,"April 30, 2021",Texas,Houston,"1838 Ahrens St",0,1,N/A
+1991353,"April 30, 2021",Minnesota,Minneapolis,"N Morgan Ave and N 35th Ave",0,1,N/A
+1991678,"April 30, 2021","New Jersey",Burlington,"400 block of Saint Mary St",1,1,N/A
+1991320,"April 29, 2021",Texas,Elsa,"300 block of E 3rd St",0,1,N/A
+1991978,"April 29, 2021",Georgia,Conyers,"1200 Rockmont Cir SW",0,1,N/A
+1991261,"April 29, 2021","New York",Yonkers,"Ash St and Oak St",0,1,N/A
+1990888,"April 29, 2021","New Jersey",Willingboro,"80 block of Baldwin Ln",0,2,N/A
+1991625,"April 29, 2021",Mississippi,Jackson,"621 Houston Ave",0,1,N/A
+1989885,"April 28, 2021","North Carolina","Winston Salem (Winston-salem)","30th St and Glenn Ave",0,2,N/A
+1990492,"April 28, 2021",Missouri,"Saint Louis","4800 block of Labadie Ave",0,1,N/A
+1989897,"April 27, 2021",California,Rosamond,"2700 block of Diamond St",0,3,N/A
+1988240,"April 27, 2021",Indiana,Elkhart,"1300 block of Wildflower St",0,1,N/A
+1988688,"April 27, 2021",Virginia,Richmond,"4000 Midlothian Turnpike",2,3,N/A
+1988540,"April 26, 2021",Texas,Houston,"990 Cypress Station Dr",1,1,N/A
+1987551,"April 26, 2021",Minnesota,Minneapolis,"1800 block of Lowry Ave N",0,3,N/A
+1987952,"April 26, 2021",Louisiana,"New Orleans","I 10 W and Franklin St",0,2,N/A
+1988728,"April 25, 2021",Mississippi,Meadville,N/A,0,1,N/A
+1987517,"April 25, 2021","North Carolina",Mooresboro,N/A,0,1,N/A
+1987864,"April 25, 2021",Florida,Springfield,"500 Block of N Everitt Ave",2,0,N/A
+1986915,"April 25, 2021","New York",Rochester,"300 Magnolia St",0,1,N/A
+1987006,"April 25, 2021",Florida,"Fort Myers","3513 Fowler St",1,1,N/A
+1987107,"April 25, 2021",Washington,"Federal Way","27900 block of Pacific Hwy S",1,0,N/A
+1986593,"April 25, 2021",Arkansas,"Little Rock","1900 E 6th St",1,3,N/A
+1985586,"April 24, 2021",Ohio,"Cleveland (Brooklyn)","5110 Tiedeman Rd",1,1,N/A
+1986025,"April 24, 2021",Florida,"North Miami Beach","NE 158th St and N Miami Ave",1,1,N/A
+1985825,"April 23, 2021",Illinois,Champaign,"600 block of S Crescent Dr",0,1,N/A
+1985736,"April 23, 2021",California,Bakersfield,"100 block of P St",0,1,N/A
+1987484,"April 23, 2021","North Carolina",Lenoir,"Pope Ln",1,2,N/A
+1985026,"April 23, 2021",Oklahoma,Tulsa,"1051 E 61st St",2,0,N/A
+1985090,"April 22, 2021",Tennessee,Memphis,N/A,0,1,N/A
+1984756,"April 22, 2021",Georgia,"Atlanta (Sandy Springs)","7600 Roswell Rd",0,1,N/A
+1983669,"April 21, 2021",Florida,Orlando,"800 block of N. Hastings St",0,1,N/A
+1983568,"April 21, 2021","North Carolina",Apex,"8200 block of Smith Rd",0,1,N/A
+1983718,"April 21, 2021",Michigan,Detroit,"12000 block of Prairie St",0,1,N/A
+1984583,"April 21, 2021",California,Bakersfield,"5000 block of Marsha St",0,1,N/A
+1984152,"April 21, 2021",Texas,Houston,"6100 East Fwy",0,1,N/A
+1984492,"April 21, 2021","North Carolina",Hickory,"Tate Blvd SE and 19th St SE",1,1,N/A
+1983090,"April 20, 2021","North Carolina",Shelby,"230 Putnam St",0,1,N/A
+1983449,"April 20, 2021",Kentucky,Louisville,"1200 block of Algonquin Parkway",1,0,N/A
+1982584,"April 20, 2021",Georgia,Lawrenceville,"225 Bethesda Church Rd",2,0,N/A
+1981709,"April 19, 2021",Tennessee,Memphis,N/A,0,2,N/A
+1981462,"April 18, 2021",Tennessee,Chattanooga,"4000 block of Chandler Ave",0,2,N/A
+1981206,"April 18, 2021",Illinois,Chicago,"3200 W Roosevelt Rd",1,1,N/A
+1982211,"April 18, 2021",Arkansas,"Rogers (Little Flock)","N Woods Ln",1,0,N/A
+1981295,"April 18, 2021",Texas,"Fort Worth","1645 Lake Shore Dr",1,0,N/A
+1980967,"April 18, 2021",Arkansas,"Van Buren","2011 Williams St",3,0,N/A
+1981044,"April 17, 2021",Alabama,Jacksonville,"97 Juanita Ln",2,1,N/A
+1980368,"April 17, 2021",Kentucky,Louisville,"500 block of N 31st St",0,1,N/A
+1982581,"April 17, 2021",Georgia,Lawrenceville,"225 Bethesda Church Rd",2,0,N/A
+1980917,"April 17, 2021",Maryland,Baltimore,"2200 block of Wilkens Ave",0,1,N/A
+1990283,"April 17, 2021",Arizona,Safford,US-70,0,3,N/A
+1979763,"April 16, 2021",Ohio,Columbus,"Linwood Ave",0,2,N/A
+1978579,"April 15, 2021",Alabama,Fairfield,"5119 Myron Massey Blvd",0,1,N/A
+1979191,"April 15, 2021",Texas,Frisco,"201 King Rd",0,1,N/A
+1979022,"April 15, 2021",Missouri,"Saint Louis","McLaran Ave and Goodfellow Blvd",1,2,N/A
+1980561,"April 15, 2021",Louisiana,Luling,"100 block of Allie Ln",0,1,N/A
+1978173,"April 14, 2021",Michigan,Detroit,"9636 Appoline St",0,1,N/A
+1978424,"April 14, 2021",Florida,"Palm Beach Gardens (Riviera Beach)","AC Evans St",1,1,N/A
+1977241,"April 14, 2021",Wisconsin,Milwaukee,"2800 block of N 39th St",0,1,N/A
+1983219,"April 14, 2021",Arizona,Mesa,"E Brown Rd and N Ellsworth Rd",2,1,N/A
+1977879,"April 14, 2021",Ohio,Columbus,"2255 Hanna Dr",0,1,N/A
+1977819,"April 14, 2021",Pennsylvania,Philadelphia,"800 block of S 53rd St",1,2,N/A
+1977528,"April 13, 2021","North Carolina",Gastonia,"1200 block of Ware Ave",1,0,N/A
+1977312,"April 13, 2021",Michigan,Lansing,"6342 Old River Trl",3,0,N/A
+1977955,"April 13, 2021",Oklahoma,"Oklahoma City","NE 27th St and Prospect Ave",0,1,N/A
+1975927,"April 12, 2021",Tennessee,Nashville,"25th Ave N and Dowlan St",1,3,N/A
+1975688,"April 12, 2021","New Jersey",Newark,"14th Ave and S 6th St",0,1,N/A
+1976068,"April 12, 2021",Pennsylvania,Philadelphia,"5100 block of Westford Rd",0,1,N/A
+1976952,"April 12, 2021",Mississippi,Jackson,"4200 block of Meadowmont Dr",0,2,N/A
+1975657,"April 11, 2021","South Carolina",Lamar,"Lynches River Rd",0,1,N/A
+1974999,"April 11, 2021",Texas,Dallas,"2827 S Buckner Blvd",1,0,N/A
+1975019,"April 11, 2021","New York",Syracuse,"300 block of Grant Ave",1,2,N/A
+1975004,"April 11, 2021",Washington,Seattle,"306 23rd Ave S",0,4,N/A
+1975083,"April 10, 2021",Missouri,"Saint Louis","N 20th St",0,1,N/A
+1974088,"April 10, 2021",Tennessee,Memphis,"385 Western Park Dr",1,3,N/A
+1974066,"April 10, 2021",California,"Sun Valley","12100 block of Sheldon St",0,1,N/A
+1974602,"April 10, 2021",Indiana,Indianapolis,"3902 Glen Arm Rd",0,1,N/A
+1973985,"April 10, 2021",Connecticut,Hartford,"182 Nelson St",1,0,N/A
+1974462,"April 10, 2021",Pennsylvania,Philadelphia,"W York St and Park Ave",0,1,N/A
+1973077,"April 9, 2021",Minnesota,"Saint Paul","600 block of Case Ave",0,1,N/A
+1973350,"April 9, 2021","West Virginia",Charleston,"1300 Renaissance Cir",1,1,N/A
+1974246,"April 9, 2021",Ohio,Cleveland,"7800 block of New York Ave",0,2,N/A
+1972954,"April 9, 2021",Texas,Houston,"3130 Crestdale Dr",1,0,N/A
+1972589,"April 8, 2021",California,Fresno,"Kern St and Collins Ave",0,2,N/A
+1972569,"April 8, 2021",Oklahoma,"Oklahoma City","NE 29th St and N Martin Luther King Ave",1,0,N/A
+1971410,"April 7, 2021","South Carolina","Rock Hill","4456 Marshall Rd",7,0,N/A
+1971171,"April 7, 2021",Louisiana,Baker,"4400 block of Breckenridge Dr",1,0,N/A
+1972434,"April 7, 2021",Kentucky,Hopkinsville,"Prosperity Ln",1,0,N/A
+1971386,"April 6, 2021",Illinois,Urbana,"700 block of Scottswood Dr",0,1,N/A
+1970360,"April 6, 2021",Illinois,Chicago,"300 block of S Lake Shore Dr",0,1,N/A
+1970934,"April 6, 2021",Minnesota,"Saint Paul","400 block of Thomas Ave S",0,1,N/A
+1972705,"April 6, 2021",Louisiana,Natchitoches,"600 block of Jackson Dr",0,1,N/A
+1969462,"April 5, 2021","New York",Brooklyn,"New Lots Ave and Montauk Ave",0,1,N/A
+1969873,"April 5, 2021","New Jersey",Newark,"300 block of 14th Ave",0,3,N/A
+1969199,"April 4, 2021",Florida,"Fort Lauderdale","800 NW 22nd Rd",0,3,N/A
+1968887,"April 4, 2021",Alabama,Birmingham,"3969 14th Ave N",1,5,N/A
+1968642,"April 4, 2021",Ohio,Columbus,"1972 Joyce Ave",0,2,N/A
+1968226,"April 3, 2021","New York",Buffalo,"200 block of Strauss St",0,1,N/A
+1968810,"April 3, 2021",Tennessee,Memphis,"1000 block of W Lexington Cir",1,0,N/A
+1968331,"April 3, 2021",Missouri,"Saint Louis","3900 block of Virginia Ave",0,3,N/A
+1967953,"April 3, 2021",Kentucky,Louisville,"4000 block of Parthenia Ave",1,0,N/A
+1971926,"April 3, 2021",Indiana,"South Bend","3790 Curtiss Dr N",0,1,N/A
+1966373,"April 1, 2021",Ohio,Columbus,"1632 Red Leaf Ln",0,1,N/A
+1966743,"April 1, 2021",Ohio,Columbus,"2500 block of Wallcrest Blvd",0,1,N/A
+1967348,"April 1, 2021",Wisconsin,Milwaukee,"1900 block of N 21st St",0,1,N/A
+1967420,"April 1, 2021","West Virginia",Moorefield,"506 Winchester Ave",3,0,N/A
+1967792,"April 1, 2021",Louisiana,"Baton Rouge","300 block of N Foster Dr",1,1,N/A
+1966969,"March 31, 2021","North Carolina",Charlotte,"7900 block of Oak Meadow Ct",1,1,N/A
+1966181,"March 31, 2021",California,Orange,"202 West Lincoln Ave",4,2,N/A
+1966793,"March 31, 2021",Maryland,Rosedale,"5500 block of Lanham Way",2,1,N/A
+1966989,"March 31, 2021","North Carolina",Greenville,"1100 block of Van Dyke St",1,0,N/A
+1965484,"March 30, 2021","North Carolina",Charlotte,"1000 block of Marble St",0,1,N/A
+1965508,"March 29, 2021","North Carolina","Winston Salem (Winston-salem)","1100 Block of New Hope Rd",0,1,N/A
+1964128,"March 29, 2021",Missouri,"Saint Louis","5200 block of Gilmore Ave",0,2,N/A
+1963765,"March 27, 2021",Texas,"Fort Worth","100 block of Afton Rd",0,1,N/A
+1974983,"March 27, 2021",Texas,Tomball,"TX-99 and TX-249",0,1,N/A
+1964508,"March 27, 2021",Texas,Dallas,"2400 block of Talco Dr",0,1,N/A
+1963087,"March 27, 2021",Louisiana,Hammond,"1308 S Morrison Blvd",0,1,N/A
+1963191,"March 27, 2021",Louisiana,"Baton Rouge","376 N Foster Dr",1,1,N/A
+1964027,"March 27, 2021",Mississippi,"Yazoo City","N Cherry St",0,1,N/A
+1963225,"March 26, 2021",Texas,Cypress,"10600 block of Cypress Breeze Dr",0,1,N/A
+1962699,"March 26, 2021",Pennsylvania,Monroeville,"120 Cambridge Square Dr",1,0,N/A
+1962820,"March 26, 2021",Ohio,Columbiana,"300 block of Quincy Ave",1,0,N/A
+1962395,"March 26, 2021",Pennsylvania,Philadelphia,"1500 block of Mckinley St",1,1,N/A
+1962473,"March 25, 2021","North Carolina",Salisbury,"Harrel St",0,1,N/A
+1962165,"March 25, 2021",Missouri,Festus,"100 block of Lilac Dr",0,1,N/A
+1961689,"March 25, 2021",Alabama,Birmingham,N/A,0,1,N/A
+1961521,"March 24, 2021",Ohio,Pataskala,"195 Coronado Dr",1,1,N/A
+1960442,"March 23, 2021",Georgia,Atlanta,"2860 Cumberland Mall SE",0,3,N/A
+1959738,"March 22, 2021",Missouri,"Elk Creek","Nagle Dr",1,0,N/A
+1959609,"March 22, 2021",Louisiana,Houma,"9100 block of Main St",1,0,N/A
+1958220,"March 21, 2021",Texas,Palestine,"N Magnolia St and W Spring St",2,1,N/A
+1958476,"March 21, 2021",Minnesota,Moorhead,"400 block of Sunrise Cir",1,0,N/A
+1957701,"March 20, 2021",Louisiana,Shreveport,"4911 Monkhouse Dr",1,1,N/A
+1956799,"March 19, 2021",Illinois,Chicago,"3103 W Lake St",1,2,N/A
+1956693,"March 19, 2021",Texas,Pasadena,"3635 Shaver St",1,0,N/A
+1957239,"March 19, 2021",Illinois,Chicago,"6100 block of S Michigan Ave",0,1,N/A
+1957179,"March 19, 2021",Texas,Houston,"12360 Richmond Ave",1,2,N/A
+1954467,"March 16, 2021",Virginia,Richmond,"3700 block of Angela Dr",1,0,N/A
+1954718,"March 15, 2021",Texas,Dallas,"10222 N Walton Walker Blvd",0,1,N/A
+1954027,"March 14, 2021",Montana,Power,"Hevorn Rd",0,1,N/A
+1954425,"March 13, 2021",Iowa,"Webster City",N/A,0,1,N/A
+1953361,"March 13, 2021",California,"Los Angeles","4500 block of S Alameda St",0,2,N/A
+1951754,"March 13, 2021",Indiana,Indianapolis,"5800 block of Granner Dr",0,1,N/A
+1952161,"March 13, 2021",Indiana,Indianapolis,"300 block of N Randolph St",4,1,N/A
+1952125,"March 13, 2021",Arkansas,"Little Rock","2000 Boyle Park Rd",1,1,N/A
+1950133,"March 11, 2021",Wisconsin,Milwaukee,"3311 N 24th St",0,2,N/A
+1950378,"March 10, 2021",Georgia,Atlanta,"62 Harwell Rd NW",0,3,N/A
+1949667,"March 10, 2021",Illinois,Rockford,"500 block of Score St",0,1,N/A
+1948862,"March 9, 2021",Kentucky,Louisville,"S 7th St and Hill St",0,2,N/A
+1948672,"March 9, 2021",Kentucky,Louisville,"22nd St and West Madison St",0,2,N/A
+1949704,"March 9, 2021",California,Downey,I-105,0,1,N/A
+1949181,"March 9, 2021",Michigan,Detroit,"19100 block of Omira St",0,1,N/A
+1948781,"March 9, 2021",Texas,"Fort Worth","708 Barrywood Ct",1,1,N/A
+1948013,"March 8, 2021",Ohio,Youngstown,"690 Magnolia Ave",0,1,N/A
+1947249,"March 7, 2021",Illinois,Chicago,"400 block of W 119th St",0,1,N/A
+1947470,"March 7, 2021",Texas,Dallas,"1800 block of W Colorado Blvd",1,2,N/A
+1947051,"March 7, 2021",Ohio,Dayton,"1994 Gant Ave",0,1,N/A
+1948470,"March 7, 2021",Mississippi,Edwards,"607 Wallace Dr",0,4,N/A
+1947503,"March 7, 2021",Missouri,"Saint Louis","1001 Hickory Pl",1,0,N/A
+1946173,"March 6, 2021",Ohio,Nelsonville,"Walnut St",1,0,N/A
+1947131,"March 6, 2021","New Mexico","Los Lunas","W Brazaro and Carmel Rd",1,0,N/A
+1945218,"March 4, 2021",Missouri,Florissant,"4855 Lockwig Trl",4,0,N/A
+1944112,"March 3, 2021",Louisiana,"Baton Rouge","Clayton Dr and W Brookstown Dr",0,1,N/A
+1944162,"March 3, 2021",Texas,Houston,"7931 Southwest Fwy",1,1,N/A
+1942954,"March 2, 2021","North Carolina",Nashville,"5900 block of Maggie Rd",0,1,N/A
+1943332,"March 2, 2021",Alabama,Mobile,"700 block of Marine St",0,1,N/A
+1945763,"March 1, 2021",Missouri,Warsaw,US-65,3,0,N/A
+1942056,"March 1, 2021",Kentucky,Lexington,"Rand Ave",0,1,N/A
+1942467,"March 1, 2021",Iowa,"Des Moines","1300 block of 13th St",0,1,N/A
+1942559,"March 1, 2021",Illinois,Chicago,"100 block of W 127th St",1,1,N/A
+1942812,"March 1, 2021",Georgia,Bishop,"1200 Block of Riverwalk Rd",1,1,N/A
+1942321,"March 1, 2021",Ohio,Columbus,"1982 Maryland Ave",0,1,N/A
+1941923,"February 28, 2021","West Virginia",Charleston,"100 block of Kanawha Blvd",0,1,N/A
+1941340,"February 28, 2021",Texas,Lubbock,"1000 block of E Rice St",0,1,N/A
+1941669,"February 28, 2021",Indiana,"East Chicago","1205 W Chicago Ave",0,4,N/A
+1941952,"February 28, 2021",Colorado,Aurora,"12000 block of E Kansas Dr",0,1,N/A
+1941364,"February 28, 2021",Missouri,"Saint Louis","10000 block of Earl Dr",0,1,N/A
+1940588,"February 27, 2021",Alabama,Birmingham,"200 block of Boxwood Cir",0,1,N/A
+1940272,"February 27, 2021",Maryland,Baltimore,"2300 block of Avalon Ave",0,3,N/A
+1940544,"February 27, 2021",Alabama,Mobile,"2600 block of Farnell Dr",0,1,N/A
+1940665,"February 27, 2021",Washington,Othello,"300 block of Hamlet St",1,0,N/A
+1943056,"February 26, 2021",Texas,"El Paso","1925 Detroit Ave",1,0,N/A
+1940020,"February 26, 2021",Florida,Jacksonville,"4800 block of Deer Lake Dr E",0,1,N/A
+1939978,"February 25, 2021",Louisiana,"New Orleans","6000 block of Downman Rd",0,1,N/A
+1937902,"February 24, 2021",Louisiana,Shreveport,"E. 68th St and Thornhill Ave",0,2,N/A
+1938338,"February 23, 2021",Michigan,"Luce (county)",N/A,1,0,N/A
+1936985,"February 23, 2021",Tennessee,"Grand Junction","Pearl Rd",1,0,N/A
+1937754,"February 23, 2021","South Carolina",Pageland,"Blairlock St",0,1,N/A
+1937741,"February 23, 2021",Texas,Mission,"La Homa Rd and Valencia Ave",1,0,N/A
+1936173,"February 22, 2021",Texas,"San Antonio","1700 block of S Hamilton Ave",0,1,N/A
+1936994,"February 22, 2021",Washington,Lakewood,"8600 block of Steilacoom Blvd SW",1,0,N/A
+1935405,"February 21, 2021",Missouri,"Saint Joseph","1205 Angelique St",0,1,N/A
+1935704,"February 20, 2021",Tennessee,Columbia,"400 Hallmark Dr",0,1,N/A
+1935729,"February 20, 2021","North Carolina",Mebane,"W Stagecoach Rd",0,1,N/A
+1935443,"February 20, 2021","South Carolina",Santee,"Resort St",1,1,N/A
+1934392,"February 20, 2021",Mississippi,Gulfport,"1005 W Birch Dr",0,3,N/A
+1933353,"February 19, 2021","North Carolina","Winston Salem (Winston-salem)","4700 block of Indiana Ave",0,1,N/A
+1933319,"February 18, 2021","North Carolina",Charlotte,"Nigel Ct",0,1,N/A
+1933536,"February 18, 2021",Ohio,Akron,"2500 block of Romig Rd",0,1,N/A
+1931591,"February 17, 2021",Indiana,Gary,"Kentucky St and E 47th Pl",0,1,N/A
+1932457,"February 17, 2021",Arizona,"Sierra Vista","1201 Colombo Ave",3,0,N/A
+1931897,"February 17, 2021",Tennessee,Clarksville,"3400 block of Pembroke Rd",1,0,N/A
+1929529,"February 15, 2021",Ohio,Cleveland,"Cedar Rd and E 28th St",0,1,N/A
+1930390,"February 15, 2021","North Carolina",Cornelius,"19301 Meridian St",1,1,N/A
+1930139,"February 15, 2021",Maryland,"Princess Anne","30000 block of Bardwell Dr",0,1,N/A
+1929236,"February 14, 2021",California,Pasadena,"300 block of Parke St",0,1,N/A
+1929167,"February 14, 2021",Georgia,Austell,"900 block of Peel Castle Ln",2,1,N/A
+1929156,"February 14, 2021",Georgia,Macon,"204 Chambers Cove Dr",1,0,N/A
+1928751,"February 13, 2021",Wisconsin,Milwaukee,"4600 block of N 29th St",0,1,N/A
+1928896,"February 13, 2021",Alabama,Tuskegee,"508 Pleasant Springs Dr",1,0,N/A
+1928217,"February 12, 2021",Indiana,"Fort Wayne","4900 block of Oak Knob Run",0,1,N/A
+1926505,"February 11, 2021",Kentucky,Lexington,"340 Furlong View Ct",1,3,N/A
+1926701,"February 10, 2021",Georgia,Atlanta,"62 Harwell Rd NW",0,4,N/A
+1926676,"February 10, 2021",Texas,Houston,"300 N Loop W",0,2,N/A
+1925022,"February 9, 2021",Texas,Houston,"5400 block of Airport Blvd",0,2,N/A
+1924253,"February 9, 2021",Texas,Houston,"5619 Aldine Bender Rd",0,1,N/A
+1925178,"February 9, 2021",Ohio,"Cleveland (East Cleveland)","Superior Ave and Hayden Ave",1,2,N/A
+1924039,"February 8, 2021",Ohio,Strongsville,"Albion Rd and Pearl Rd",0,3,N/A
+1922980,"February 7, 2021",Texas,"San Antonio","3514 Martin Luther King Dr",0,2,N/A
+1923115,"February 7, 2021",Nebraska,Omaha,"N 33rd St and Maple St",0,1,N/A
+1923315,"February 6, 2021",Missouri,"Saint Louis (Spanish Lake)","12000 block of Garden Ln",0,1,N/A
+1923224,"February 6, 2021","North Carolina",Hollister,"Bobolink Trl",1,0,N/A
+1922815,"February 6, 2021",Montana,"Saint Regis","21 Upper 7 Mile Rd",3,0,N/A
+1921445,"February 5, 2021",Texas,Katy,"19900 block of Masters Manor Ln",0,1,N/A
+1921562,"February 5, 2021",Ohio,Toledo,"909 Byrneport Dr",2,1,N/A
+1921276,"February 5, 2021",Texas,Dallas,"3000 block of Carpenter Ave",0,1,N/A
+1921838,"February 5, 2021",Indiana,"East Chicago","3900 block of Fir St",0,1,N/A
+1923330,"February 5, 2021",Missouri,"Kansas City","E 69th St and James A Reed Rd",0,1,N/A
+1921707,"February 5, 2021",Mississippi,Jackson,"Northside Dr and Hanging Moss Rd",0,2,N/A
+1920656,"February 4, 2021",Alabama,Birmingham,"2900 block of John Bryan Rd",1,1,N/A
+1919901,"February 4, 2021",Missouri,"Saint Louis","4126 S Grand Blvd",3,0,N/A
+1920755,"February 3, 2021",Pennsylvania,"Kingston (Edwardsville)","Tobin Ln and Francis St",1,0,N/A
+1920005,"February 3, 2021",Texas,Austin,"4100 block of Balboa Ln",0,3,N/A
+1920480,"February 3, 2021",Florida,Jacksonville,"McMillan St",0,1,N/A
+1920539,"February 3, 2021",Florida,Brooksville,"Twigg St",1,2,N/A
+1920639,"February 3, 2021",Louisiana,Shreveport,"700 block of Bernice Cir",1,0,N/A
+1917984,"February 2, 2021",Kansas,Topeka,"804 SE Sherman Ave",0,1,N/A
+1919337,"February 2, 2021",Indiana,Gary,"1700 block of E 7th Ave",0,1,N/A
+1918569,"February 2, 2021",Kentucky,Louisville,"3900 block of Bells Ln",2,1,N/A
+1917909,"February 2, 2021",Oklahoma,Muskogee,"903 Indiana St",6,1,N/A
+1917645,"February 1, 2021",Louisiana,"Baton Rouge","Scenic Hwy and 75th Ave",0,1,N/A
+1916417,"January 30, 2021",Florida,Miami,"55 NW 17th Avenue",0,3,N/A
+1915898,"January 30, 2021",Minnesota,"Saint Paul","761 Jessie St",3,0,N/A
+1915391,"January 29, 2021",Georgia,Macon,"2336 Ballard Dr",1,0,N/A
+1915359,"January 29, 2021",Mississippi,Ellisville,"400 block of New Hope Road",1,0,N/A
+1915320,"January 29, 2021",Texas,Katy,"510 Westgreen Blvd",1,1,N/A
+1915958,"January 29, 2021","North Carolina","Winston Salem (Winston-salem)","103 Echo Glen Dr",0,1,N/A
+1914701,"January 28, 2021","South Carolina",Bennettsville,"Liles St",0,2,N/A
+1914942,"January 28, 2021",Michigan,Flint,"1900 block of Tebo St",1,4,N/A
+1915614,"January 28, 2021","New Jersey",Newark,"85 Cabinet St",0,3,N/A
+1913675,"January 27, 2021",Louisiana,"New Orleans (Algiers)","General DeGaulle Dr and Kabel Dr",1,2,N/A
+1913216,"January 25, 2021",Georgia,Atlanta,"1212 James Jackson Pkwy NW",0,1,N/A
+1912198,"January 25, 2021",Georgia,Clarkston,"751 N Indian Creek Dr",0,2,N/A
+1912456,"January 25, 2021",Arizona,Chandler,"W Chandler Blvd and N Alma School Rd",0,2,N/A
+1911043,"January 24, 2021",Missouri,"Saint Louis","4000 block of Laclede Ave",2,0,N/A
+1910609,"January 24, 2021",Illinois,Chicago,"958 W 75th St",0,2,N/A
+1910790,"January 24, 2021",Pennsylvania,"West Chester","118 Mountain View Dr",4,0,N/A
+1910813,"January 24, 2021",Michigan,Detroit,"14400 block of Hubbell Ave",0,1,N/A
+1914168,"January 23, 2021",Colorado,Alamosa,"County Road 3 South and Truman Ave",3,0,N/A
+1909188,"January 22, 2021",Wisconsin,Milwaukee,"5400 block of N 83rd St",0,1,N/A
+1908867,"January 22, 2021",Michigan,Owosso,"1400 block of Cleveland St",1,0,N/A
+1909909,"January 22, 2021",Texas,"Fort Worth","2700 block of NW 18th St",0,1,N/A
+1908034,"January 21, 2021","North Carolina",Asheboro,"1101 Kemp Blvd",2,1,N/A
+1906654,"January 20, 2021",Michigan,Detroit,"2420 block of Sturtevant St",1,0,N/A
+1907357,"January 20, 2021",Pennsylvania,Philadelphia,"2300 block of N Bouvier St",1,0,N/A
+1906259,"January 19, 2021","North Carolina",Charlotte,"400 block of Hilo Dr",0,1,N/A
+1905822,"January 19, 2021",Michigan,Detroit,"Downing St and Bassett St",1,1,N/A
+1905177,"January 18, 2021","New York",Bronx,"5 Fordham Hill Oval",0,1,N/A
+1906496,"January 18, 2021",Illinois,Kankakee,"200 block of W Chestnut St",0,3,N/A
+1903960,"January 16, 2021",Florida,Miami,"NW 6th Pl and NW 54th St",1,2,N/A
+1906006,"January 16, 2021",Missouri,Bridgeton,"12100 block of Nottingham Lane",2,0,N/A
+1903678,"January 16, 2021",Louisiana,"Saint Rose","300 block of Mockingbird Ln",1,0,N/A
+1903261,"January 15, 2021",Ohio,Columbus,"1200 block of Parkview Dr",0,1,N/A
+1903160,"January 15, 2021",Louisiana,"New Orleans","4900 block of Wright Rd",0,1,N/A
+1906411,"January 15, 2021","New Jersey",Camden,"900 block of Central Ave",0,1,N/A
+1903170,"January 14, 2021",Mississippi,Columbia,"Franklin Dr",0,1,N/A
+1902263,"January 13, 2021","North Carolina",Greenville,"2004 Long Dr",1,1,N/A
+1901845,"January 13, 2021",Colorado,Denver,"1767 S Logan St",3,0,N/A
+1901979,"January 13, 2021",California,"San Francisco","3835 Scott St",2,0,N/A
+1901688,"January 13, 2021",California,"La Puente","14200 block of Nelson Ave",0,1,N/A
+1901628,"January 13, 2021",California,Industry,"14200 block of Nelson Ave E",0,1,N/A
+1906683,"January 12, 2021",Ohio,Sandusky,N/A,0,1,N/A
+1900492,"January 11, 2021","North Carolina","Winston Salem (Winston-salem)","1800 block of S Martin Luther King Jr Dr",0,1,N/A
+1899550,"January 10, 2021",Illinois,Streamwood,"1700 block of S Green Meadows Blvd",0,1,N/A
+1900792,"January 10, 2021",Mississippi,"Holly Springs","Ridgecrest Dr",0,1,N/A
+1899076,"January 9, 2021",Ohio,Columbus,"1430 block of N 4th St",0,1,N/A
+1898819,"January 9, 2021",Kansas,Wichita,"4900 block of E Harry St",0,2,N/A
+1897861,"January 9, 2021",Florida,Jacksonville,"5000 San Juan Ave",0,1,N/A
+1896827,"January 7, 2021",Florida,Jacksonville,"14286 Beach Blvd",0,1,N/A
+1896384,"January 6, 2021",Texas,Livingston,"201 Maple Ln",2,2,N/A
+1900866,"January 5, 2021",Wisconsin,Albany,N/A,1,0,N/A
+1895241,"January 4, 2021",Tennessee,Memphis,"2240 Howell Ave",1,0,N/A
+1894934,"January 3, 2021",Missouri,Sedalia,"125 E Boonville St",1,0,N/A
+1893870,"January 3, 2021",Georgia,Stonecrest,"3100 block of Fairington Dr",0,1,N/A
+1894240,"January 3, 2021",Michigan,Southfield,"25701 W 12 Mile Rd",1,0,N/A
+1894013,"January 3, 2021",Florida,Sarasota,"2100 block of Dixie Ave",0,2,N/A
+1892782,"January 2, 2021",Kentucky,Louisville,"4400 block of Southridge Dr",0,1,N/A
+1892912,"January 2, 2021",Maine,Waterville,"92 Western Ave",0,1,N/A
+1892698,"January 1, 2021",Ohio,Columbus,"885 Danwood Dr",3,0,N/A
+1891537,"January 1, 2021",Texas,Houston,"2611 Garden City Dr",0,1,N/A
+1892088,"January 1, 2021",Texas,Arlington,"700 block of Washington Dr",1,0,N/A

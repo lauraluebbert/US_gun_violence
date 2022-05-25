@@ -1,0 +1,377 @@
+"Incident ID","Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+2311001,"May 24, 2022",Wisconsin,Milwaukee,"2500 block of N 12th St",0,1,N/A
+2310278,"May 24, 2022",Texas,Uvalde,"715 Old Carrizo Rd",22,17,N/A
+2310130,"May 24, 2022",Alabama,Birmingham,"2000 block of Ave V",0,2,N/A
+2311368,"May 24, 2022",Indiana,"Fort Wayne","2900 block of Reed St",0,1,N/A
+2308591,"May 22, 2022",Maryland,Baltimore,"500 block of N Glover St",0,2,N/A
+2308129,"May 21, 2022",Maine,Wells,"97 Crediford Rd",1,2,N/A
+2307631,"May 20, 2022",Florida,Kissimmee,"2331 Old Dixie Hwy",1,3,N/A
+2307608,"May 20, 2022","North Carolina","Roanoke Rapids","100 block of Delta Dr",1,0,N/A
+2309628,"May 20, 2022",Mississippi,Meridian,"MS-39 and N Hills St",0,2,N/A
+2309465,"May 20, 2022",Minnesota,Mound,"Shoreline Dr and Bartlett Blvd",1,0,N/A
+2309721,"May 20, 2022","New Mexico",Hobbs,"3000 block of E Stanolind Rd",0,1,N/A
+2306792,"May 19, 2022",Pennsylvania,Philadelphia,"2400 block of N 5th St",0,1,N/A
+2306464,"May 19, 2022",Washington,"Federal Way","1200 block of South 336th St",0,1,N/A
+2306421,"May 19, 2022",Texas,Houston,"9721 Cypresswood Dr",4,0,N/A
+2307136,"May 19, 2022",Texas,Bryan,"1500 block of Military Dr",0,1,N/A
+2306392,"May 18, 2022",Florida,"Dade City","Johns Rd",1,2,N/A
+2305969,"May 18, 2022","North Dakota",Fargo,"5505 28th Ave S",1,2,N/A
+2305310,"May 18, 2022",Arizona,Phoenix,"2775 W Thomas Rd",0,2,N/A
+2306688,"May 18, 2022",Illinois,Champaign,"400 block of E Church St",0,2,N/A
+2305429,"May 17, 2022",Pennsylvania,Lancaster,"S Queen St and Andrews St",0,2,N/A
+2304854,"May 17, 2022",Illinois,Chicago,"4140 N Marine Dr",0,1,N/A
+2304617,"May 17, 2022","North Carolina",Charlotte,"1000 block of Deep Rock Circle",0,3,N/A
+2304207,"May 16, 2022",Louisiana,Shreveport,"1915 Patzman St",0,1,N/A
+2303670,"May 16, 2022","New York",Bronx,"995 Westchester Ave",1,0,N/A
+2304675,"May 16, 2022",Michigan,Muskegon,"Allen Ave and Emerald St",0,1,N/A
+2307346,"May 16, 2022",Ohio,Canton,"1500 block of Logan Ave NW",0,1,N/A
+2304173,"May 16, 2022",Iowa,Ankeny,"NE 5th St and NE Delaware Ave",1,0,N/A
+2303975,"May 16, 2022",Alabama,Tuscaloosa,"415 Hargrove Rd E",0,1,N/A
+2303193,"May 15, 2022",Pennsylvania,Pittsburgh,"400 block of Johnston Ave",0,1,N/A
+2303220,"May 15, 2022",Kentucky,"Louisville (Shively)","2107 Appleton Ln",1,1,N/A
+2304891,"May 15, 2022","South Carolina",Darlington,"Parrott St",0,1,N/A
+2302770,"May 15, 2022",Texas,Spring,"5000 block of Roth Forest Ln",0,2,N/A
+2302491,"May 14, 2022",Ohio,Columbus,"Summit St and E 6th Ave",0,1,N/A
+2301606,"May 14, 2022",Illinois,Skokie,"4700 block of Main St",1,1,N/A
+2301434,"May 13, 2022",Pennsylvania,"Drexel Hill","2200 block of Garrett Road",0,1,N/A
+2301747,"May 13, 2022","South Carolina",North,"McClain St",1,0,N/A
+2301170,"May 13, 2022",California,"Los Angeles","W 56th St and Western Ave",0,2,N/A
+2301348,"May 13, 2022",Ohio,Columbus,"378 Hawkes Ave",0,1,N/A
+2301049,"May 13, 2022",Missouri,"Saint Louis","2500 block of Harriet Walk",0,1,N/A
+2300290,"May 12, 2022",Louisiana,Springfield,"25000 block of Pardue Rd",0,1,N/A
+2299660,"May 11, 2022",Illinois,Chicago,"6800 block of S Ashland Ave",0,4,N/A
+2300158,"May 11, 2022",Illinois,Chicago,"1300 block of W 76th St",0,2,N/A
+2299793,"May 11, 2022",Missouri,"Saint Louis","5000 block of N Kingshighway Blvd",1,3,N/A
+2300193,"May 11, 2022",Texas,Waco,"3501 Alta Vista Dr",1,0,N/A
+2300099,"May 10, 2022",Oregon,Gresham,"700 block of SE 185th Ave",3,0,N/A
+2299352,"May 10, 2022","New Mexico",Albuquerque,N/A,0,1,N/A
+2298704,"May 10, 2022","North Carolina","Rocky Mount","1000 Block of Proctor St",0,1,N/A
+2297967,"May 9, 2022",California,Vacaville,"I-80 and Alamo Dr",0,1,N/A
+2297221,"May 8, 2022",Missouri,"Saint Louis","St Louis Ave and N Kingshighway Blvd",0,1,N/A
+2297157,"May 8, 2022",California,"Canoga Park","22547 Victory Blvd",3,0,N/A
+2299980,"May 8, 2022",Colorado,Frederick,"6823 2nd St",1,0,N/A
+2298458,"May 8, 2022",California,Baker,"Zzyzx Rd",2,0,N/A
+2297655,"May 8, 2022",Texas,Dallas,"4000 block of S Polk St",0,1,N/A
+2297892,"May 7, 2022",Ohio,Cincinnati,"11000 block of Elkwood Dr",0,1,N/A
+2296526,"May 7, 2022","North Carolina",Asheboro,"High Pine Church Rd",0,1,N/A
+2298744,"May 7, 2022",Arizona,Glendale,"AZ-101 Loop and W Northern Ave",0,1,N/A
+2297844,"May 7, 2022",Indiana,Gary,"W 17th Ave and James St",1,1,N/A
+2297226,"May 7, 2022",Missouri,"Saint Louis","3200 block of Nebraska Ave",0,1,N/A
+2296680,"May 7, 2022",Louisiana,"Bossier City","2500 Montgomery Ln",0,1,N/A
+2297140,"May 7, 2022",Arkansas,"Pine Bluff","6300 W 4th Ave",1,3,N/A
+2295056,"May 5, 2022",Illinois,Chicago,"6800 block of S Morgan St",0,1,N/A
+2295738,"May 5, 2022",Texas,Dallas,"2500 block of Fatima Ave",1,0,N/A
+2297429,"May 5, 2022","South Dakota","Pine Ridge (Pine Ridge Reservation)","29604 US-18",1,0,N/A
+2296064,"May 5, 2022",Washington,Sunnyside,"613 S 6th St",0,5,N/A
+2296002,"May 5, 2022",Alabama,Dutton,AL-40,1,0,N/A
+2294179,"May 4, 2022","New Jersey",Newark,"92 Irvine Turner Blvd",0,3,N/A
+2304010,"May 4, 2022",Mississippi,Greenwood,"107 Dionyse St",0,3,N/A
+2294158,"May 4, 2022",Kentucky,Louisville,"15th St and St. Catherine St",0,1,N/A
+2294892,"May 4, 2022",Maryland,"District Heights","6700 block of Alpine St",0,2,N/A
+2294293,"May 4, 2022",Missouri,"Saint Louis","3500 block of N 11th St",0,1,N/A
+2293632,"May 3, 2022","West Virginia",Bluefield,"800 block of Frederick St",0,2,N/A
+2293961,"May 3, 2022",Michigan,Taylor,"Eureka Rd and Beech Daly Rd",0,1,N/A
+2292748,"May 2, 2022",Texas,Katy,"22300 block of Guston Hall Ln",1,0,N/A
+2292743,"May 2, 2022",Pennsylvania,"Newtown (Upper Makefield)","100 block of Timber Ridge Rd",2,0,N/A
+2292944,"May 1, 2022",Mississippi,Brookhaven,"Old Brook Rd",0,1,N/A
+2292729,"May 1, 2022",Tennessee,Memphis,"4230 Powers Rd",0,1,N/A
+2301429,"April 30, 2022",Mississippi,Kiln,"5000 block of Ivanhoe Dr",0,1,N/A
+2291798,"April 30, 2022",Indiana,"South Bend","1000 block of Woodbine Way",1,0,N/A
+2293107,"April 29, 2022","South Dakota","Little Eagle",N/A,0,1,N/A
+2289308,"April 27, 2022",Louisiana,Opelousas,"700 block of Mia St",2,3,N/A
+2289683,"April 27, 2022",Ohio,Middletown,"800 block of 10th Ave",0,1,N/A
+2289696,"April 27, 2022",Ohio,Toledo,"Jackman Rd and Hillcrest Ave",1,1,N/A
+2288681,"April 27, 2022",Michigan,Detroit,"18400 block of Stout St",0,1,N/A
+2289036,"April 26, 2022",Georgia,Griffin,"Quillly St",0,1,N/A
+2288525,"April 26, 2022",Colorado,Denver,"5959 N Dunkirk St",3,0,N/A
+2288433,"April 26, 2022",Louisiana,"New Orleans","400 block of Burgundy St",1,0,N/A
+2290422,"April 26, 2022",Illinois,Markham,"16000 block of Ashland Ave",0,1,N/A
+2289413,"April 26, 2022",Ohio,Youngstown,"3800 block of Mohawk Ave",1,2,N/A
+2289471,"April 26, 2022",Missouri,"Saint Louis","4700 block of Plover Ave",0,1,N/A
+2286385,"April 24, 2022","South Carolina",Scranton,"396 S Glendale School Rd",1,0,N/A
+2286490,"April 24, 2022",Kentucky,Louisville,"7200 block of Vaughn Mill Rd",0,1,N/A
+2286788,"April 24, 2022",Wisconsin,Milwaukee,"1958 S 5th Pl",1,2,N/A
+2285658,"April 23, 2022","New York",Rochester,"Moulson St and Nester St",0,1,N/A
+2285701,"April 23, 2022",Virginia,"Stony Creek",N/A,0,1,N/A
+2285738,"April 23, 2022",Louisiana,Lafayette,"1300 block of NE Evangeline Thwy",1,0,N/A
+2285129,"April 22, 2022",Virginia,Chesapeake,"3900 block of Schooner Trail",0,3,N/A
+2283955,"April 21, 2022",Michigan,Detroit,"400 block of Alameda St",0,1,N/A
+2284062,"April 20, 2022",Missouri,"Saint Louis","11900 block of Rio Grande Dr",0,1,N/A
+2283760,"April 20, 2022",Florida,Jacksonville,"8220 Dix Ellis Trail",0,1,N/A
+2283535,"April 20, 2022",Minnesota,Duluth,"715 E 12th St",5,0,N/A
+2283481,"April 18, 2022","North Carolina",Mocksville,"1943 Junction Rd",4,0,N/A
+2282234,"April 18, 2022",Minnesota,Lynd,N/A,1,0,N/A
+2282668,"April 18, 2022","South Carolina",Charleston,"Johnson St and America St",0,1,N/A
+2281423,"April 17, 2022",Louisiana,"Baton Rouge","1700 block of N Sherwood Forest Dr",0,2,N/A
+2281849,"April 17, 2022",Colorado,Denver,"1700 block of S Pecos St",1,0,N/A
+2281794,"April 15, 2022",Georgia,Roswell,"100 Block of Millbrook Cir",0,1,N/A
+2280526,"April 15, 2022",Minnesota,Minneapolis,"341 Hennepin Ave",1,0,N/A
+2280091,"April 15, 2022",Pennsylvania,Philadelphia,"1600 block of S 54th St",0,2,N/A
+2280366,"April 15, 2022",Kansas,Topeka,"2400 block of SW Burnett Rd",0,1,N/A
+2280916,"April 15, 2022",Ohio,"Cleveland (South Euclid)","Wrenford Rd and Bexley Blvd",1,0,N/A
+2279355,"April 14, 2022",Pennsylvania,Erie,"2100 block of Downing Ave",1,0,N/A
+2278467,"April 14, 2022",Maryland,"St Charles","3000 Gallery Place",0,1,N/A
+2278104,"April 13, 2022",Nevada,Henderson,"103 Sicily Hills Ct",1,0,N/A
+2278012,"April 12, 2022",Louisiana,"Baton Rouge","5100 block of Fairfields Ave",1,0,N/A
+2277027,"April 12, 2022",California,Victorville,"14400 Bear Valley Rd",0,1,N/A
+2277558,"April 12, 2022",Illinois,Chicago,"3300 block of W Crystal St",0,2,N/A
+2277286,"April 12, 2022",Arizona,Avondale,"S Avondale Blvd and W Lower Buckeye Rd",0,1,N/A
+2276729,"April 11, 2022",Tennessee,Memphis,"Cambridge Station Dr and S Mendenhall Rd",0,1,N/A
+2276731,"April 11, 2022",Georgia,Talbotton,"N Washington Ave",0,1,N/A
+2275895,"April 10, 2022",Arkansas,Marion,"Sherwood Cove and Hickory St",1,0,N/A
+2274993,"April 10, 2022",Georgia,Decatur,"2750 Wesley Chapel Rd",0,1,N/A
+2276006,"April 10, 2022",Colorado,"Fort Collins","1200 block of E Lincoln Ave",1,0,N/A
+2274569,"April 9, 2022",Tennessee,Memphis,"3023 Hunters Way",0,1,N/A
+2283398,"April 9, 2022","South Carolina",Columbia,"Drayton Hall Dr",0,3,N/A
+2274287,"April 9, 2022",Ohio,Columbus,"1900 block of Colin Ct",0,1,N/A
+2274246,"April 9, 2022",Texas,"Texas City","1900 block of 13th Ave N",0,2,N/A
+2273835,"April 8, 2022",Georgia,"Stone Mountain","3800 block of Wood Path Dr",1,0,N/A
+2274226,"April 8, 2022",Illinois,Chicago,"900 block of W 115th St",0,1,N/A
+2274050,"April 8, 2022",Ohio,Vinton,"26000 block of Price Strong Rd",1,0,N/A
+2273197,"April 7, 2022",Florida,"West Palm Beach","916 4th St",1,1,N/A
+2273447,"April 7, 2022",Illinois,Chicago,"8200 block of S Green St",0,1,N/A
+2273380,"April 7, 2022",Pennsylvania,Philadelphia,"1800 block of E Venango St",0,2,N/A
+2273289,"April 7, 2022",Arizona,Phoenix,"28th St and Broadway Rd",0,2,N/A
+2272947,"April 6, 2022",California,Fresno,"2407 W Alamos Ave",0,1,N/A
+2272465,"April 6, 2022",Virginia,Richmond,"300 block of Engleside Dr",0,1,N/A
+2273007,"April 5, 2022",California,Compton,I-710,0,2,N/A
+2271185,"April 5, 2022",Pennsylvania,Chester,"916 Kerlin St",1,0,N/A
+2271774,"April 5, 2022",Kansas,"Junction City","2007 Northwind Dr",0,1,N/A
+2270747,"April 4, 2022",Kentucky,Covington,"Russell St and W 16th St",0,4,N/A
+2270463,"April 4, 2022",Illinois,"Belleville (Swansea)","1400 block of N 17th St",0,1,N/A
+2271900,"April 4, 2022",Mississippi,"Yazoo City","N Monroe St",0,1,N/A
+2270592,"April 3, 2022",Tennessee,Knoxville,"2200 block of Martin Luther King Jr Ave",0,1,N/A
+2270357,"April 3, 2022",Florida,"Saint Petersburg","11401 Dr MLK Jr St N",2,0,N/A
+2270300,"April 3, 2022",Florida,Jacksonville,"Crimson Leaf Ln",1,0,N/A
+2270256,"April 3, 2022",Louisiana,Gramercy,"N Mobile Ln",0,2,N/A
+2270465,"April 2, 2022",Georgia,Athens,"Rocksprings Ct",0,2,N/A
+2268959,"April 2, 2022",California,Stockton,"2200 block of Van Gogh Ln",0,1,N/A
+2269212,"April 2, 2022",Florida,Orlando,"2258 S Kirkman Rd",0,2,N/A
+2269029,"April 2, 2022",Oklahoma,Tulsa,"1300 E 51st Pl N",0,1,N/A
+2268578,"April 1, 2022",Louisiana,Shreveport,"2800 block of Morningside Dr",1,1,N/A
+2268847,"April 1, 2022",Missouri,"Saint Louis","4300 block of N Florissant Ave",0,1,N/A
+2268792,"April 1, 2022",Louisiana,Shreveport,"7800 block of Youree Dr",0,1,N/A
+2273911,"April 1, 2022",Georgia,Austell,"7200 Premier Ln",0,1,N/A
+2268726,"March 31, 2022",Texas,Greenville,"3800 block of FM118",0,1,N/A
+2266955,"March 30, 2022",Washington,Spokane,"Lincoln St and Dalton Ave",0,1,N/A
+2266028,"March 29, 2022",Mississippi,"Yazoo City","N Monroe St",0,1,N/A
+2265164,"March 28, 2022",Oregon,Portland,"6300 block of N Marine Dr",0,4,N/A
+2265507,"March 28, 2022",Texas,"Fort Worth","5000 block of Vinson St",0,1,N/A
+2265633,"March 28, 2022",Georgia,Atlanta,"1496 Bouldercrest Rd",1,0,N/A
+2264686,"March 28, 2022",Texas,Dallas,"9500 block of Timberleaf Dr",1,0,N/A
+2264650,"March 27, 2022","North Carolina",Sylva,"110 Ferguson Road",2,0,N/A
+2264438,"March 27, 2022",Arizona,Phoenix,"N 24th St and E Cactus Rd",1,1,N/A
+2265089,"March 27, 2022",Tennessee,Memphis,"1265 Wesley Dr",1,0,N/A
+2264300,"March 26, 2022",Kansas,"Baxter Springs","340 Wyandotte Ave",3,0,N/A
+2263867,"March 26, 2022","New York",Hempstead,"Evans Ave and Peninsula Blvd",0,1,N/A
+2263907,"March 26, 2022","North Carolina",Charlotte,"4308 Sunset Rd",0,1,N/A
+2263851,"March 26, 2022",California,Stockton,"Searchlight Ave and Hazelton Ave",0,3,N/A
+2263482,"March 26, 2022",Ohio,Columbus,"500 block of Reinhard Ave",0,1,N/A
+2263124,"March 25, 2022","New York",Brooklyn,"127 Riverdale Ave",0,1,N/A
+2263826,"March 25, 2022",Georgia,"Warner Robins","200 block of Virginia Dare Dr",1,0,N/A
+2263793,"March 25, 2022","New Jersey",Trenton,"1 Kingsbury Sq",1,0,N/A
+2262573,"March 24, 2022",Ohio,Akron,"Dayton Pl and Dayton St",1,0,N/A
+2261846,"March 24, 2022",Kentucky,Louisville,"W Hill St and S 7th St",0,1,N/A
+2261435,"March 23, 2022",Virginia,Yorktown,"7000 block of George Washington Memorial Hwy",0,1,N/A
+2261841,"March 23, 2022",Michigan,Flint,"1200 block of Alvord Ave",0,1,N/A
+2261276,"March 23, 2022",Arizona,Glendale,"6800 N 95th Ave",0,4,N/A
+2261209,"March 23, 2022",Tennessee,Talbott,"414 English Dr",1,0,N/A
+2260243,"March 22, 2022",Florida,Orlando,"3944 WD Judge Dr",0,2,N/A
+2261175,"March 22, 2022",Florida,Tampa,"407 E Nordica St",0,1,N/A
+2260829,"March 22, 2022",Ohio,Cleveland,"4000 block of W 49th St",1,0,N/A
+2259658,"March 21, 2022",Kentucky,Louisville,"S 4th St and W Gaulbert Ave",0,1,N/A
+2259922,"March 21, 2022","New York",Brooklyn,"W 30th St and Surf Ave",0,1,N/A
+2259387,"March 21, 2022",Illinois,Chicago,"801 E 89th St",0,1,N/A
+2259312,"March 20, 2022",Louisiana,"Lake Charles","1400 block of Mill St",1,0,N/A
+2258867,"March 20, 2022",Maryland,Cambridge,"Clinton St and Park Ln",0,1,N/A
+2258231,"March 20, 2022",Kentucky,Louisville,"7800 block of Barnwood Rd",0,2,N/A
+2260170,"March 20, 2022","South Carolina",Spartanburg,"489 W Main St",0,2,N/A
+2262999,"March 19, 2022",Ohio,"Cleveland (Garfield Heights)","9300 block of Grand Division Ave",0,1,N/A
+2257739,"March 19, 2022",Arkansas,Dumas,"611 Highway 65 S",1,26,N/A
+2257958,"March 19, 2022",Louisiana,"New Orleans","1900 block N Prieur St",0,1,N/A
+2256982,"March 18, 2022",Illinois,Chicago,"5500 block of W Wrightwood Ave",0,1,N/A
+2257091,"March 18, 2022",Michigan,Pontiac,"Edmund Ct and E Wilson Ave",1,1,N/A
+2256790,"March 18, 2022",Mississippi,Summit,"1000 block of Delaney Dr",1,1,N/A
+2261059,"March 18, 2022",Ohio,Euclid,"Shoreview Ave",1,0,N/A
+2257292,"March 18, 2022",Florida,"Fort Pierce","N 32nd St and Ave B",0,3,N/A
+2257778,"March 18, 2022",Louisiana,"New Iberia","200 block of C V Jackson Dr",0,5,N/A
+2256398,"March 17, 2022",Illinois,Chicago,"4100 block of W Monroe St",0,4,N/A
+2254521,"March 15, 2022",Texas,Lubbock,"3600 block of Lehigh St",1,0,N/A
+2254381,"March 14, 2022",Tennessee,Ripley,"College St and Maple Ave",1,0,N/A
+2258618,"March 14, 2022",Ohio,Youngstown,"S Evanston Ave and Mahoning Ave",0,1,N/A
+2253363,"March 14, 2022",Minnesota,Minneapolis,"1500 block of Lasalle Ave",0,1,N/A
+2253527,"March 13, 2022",Virginia,Richmond,"6000 block of Glenway Ct",0,1,N/A
+2252804,"March 13, 2022",Alabama,Tuscaloosa,"3028 19th St",2,0,N/A
+2253981,"March 13, 2022",Mississippi,Clarksdale,"8th St",0,1,N/A
+2253002,"March 13, 2022",Louisiana,"Baton Rouge","8100 block of Skysail Avenue",0,1,N/A
+2252114,"March 12, 2022",Texas,Killeen,"400 block of W Vega Ln",2,1,N/A
+2252708,"March 12, 2022",Georgia,Macon,"3867 Log Cabin Dr",0,1,N/A
+2253591,"March 12, 2022",Illinois,Springfield,"700 block of W Monroe St",1,0,N/A
+2251718,"March 11, 2022",Texas,Dallas,"3500 block of Munger Ave",0,1,N/A
+2251818,"March 11, 2022",Tennessee,Memphis,"2600 block of Kimball Ave",0,1,N/A
+2251075,"March 10, 2022",Tennessee,Elkton,"Old Elkton Hwy",1,0,N/A
+2250485,"March 9, 2022",Virginia,Richmond,"2852 Fairfield Ave",1,1,N/A
+2250213,"March 8, 2022",Illinois,Bloomington,"1005 Four Seasons Rd",3,0,N/A
+2249578,"March 8, 2022",Tennessee,Antioch,"Smith Springs Rd",0,1,N/A
+2246000,"March 3, 2022",Tennessee,Memphis,"4120 Millbranch Rd",0,3,N/A
+2245882,"March 2, 2022",Florida,Jacksonville,"Soutel Dr and Ribault Ave",0,3,N/A
+2246321,"March 2, 2022","North Carolina",Lexington,"516 Burgess St",3,0,N/A
+2246243,"March 2, 2022",Georgia,Columbus,"100 block of 30th Ave",0,1,N/A
+2244283,"March 1, 2022",Michigan,Troy,"1750 Brentwood Dr",2,1,N/A
+2243820,"February 28, 2022",Indiana,Indianapolis,"900 block of Beville Ave",0,2,N/A
+2243847,"February 28, 2022",Hawaii,Waialua,"67-174 Kuhi St",2,0,N/A
+2243842,"February 28, 2022","West Virginia","Saint Albans","100 block of Strawberry Rd",0,1,N/A
+2243861,"February 28, 2022",California,Sacramento,"2041 Wyda Way",5,0,N/A
+2243899,"February 28, 2022",Pennsylvania,Coatesville,"367 E Chestnut St",1,0,N/A
+2243381,"February 27, 2022",Georgia,Lithonia,"3045 Panola Rd",1,0,N/A
+2245063,"February 27, 2022",Colorado,Aurora,"12000 block of E Kansas Dr",0,1,N/A
+2242990,"February 27, 2022",Kentucky,Louisville,"4100 block of Quiet Way",1,1,N/A
+2244017,"February 27, 2022",Mississippi,Hattiesburg,"Willis Ave",1,2,N/A
+2242369,"February 26, 2022","North Carolina",Hickory,"3rd Avenue SW",0,1,N/A
+2244673,"February 26, 2022",Louisiana,Bogalusa,"E 4th St and Martin Luther King Jr Dr",0,10,N/A
+2242066,"February 25, 2022",Alabama,Huntsville,"2755 Wilson Dr",0,1,N/A
+2241851,"February 24, 2022",Georgia,Milledgeville,N/A,1,0,N/A
+2241752,"February 24, 2022",Texas,Granbury,"306 Kathy Lane",4,0,N/A
+2241007,"February 23, 2022",Georgia,Atlanta,"1754 Richmond Cir SE",1,0,N/A
+2240825,"February 22, 2022",Virginia,"Virginia Beach","196 Ballard Ct",0,1,N/A
+2240589,"February 22, 2022",Louisiana,"New Orleans","1300 block of Lizardi St",0,1,N/A
+2239802,"February 22, 2022",Illinois,Chicago,"4500 block of W Congress Pkwy",0,1,N/A
+2238617,"February 21, 2022",Missouri,"Kansas City","Linwood Blvd and Agnes Ave",2,1,N/A
+2238979,"February 21, 2022",Maryland,Annapolis,"1300 block of Tyler Ave",0,2,N/A
+2238403,"February 20, 2022",Oregon,Portland,"SE Foster Rd and 128th Ave",1,3,N/A
+2237994,"February 20, 2022",Michigan,Detroit,"15319 Evergreen Rd",3,0,N/A
+2238312,"February 20, 2022",Mississippi,Mccomb,"Minnesota Ave and 6th St",1,3,N/A
+2239050,"February 19, 2022",Ohio,Lima,"1300 block of W Wayne St",1,0,N/A
+2238053,"February 19, 2022",Ohio,Columbus,"700 block of Wedgewood Dr",0,1,N/A
+2237923,"February 19, 2022",Michigan,Detroit,"12600 block of Monica St",0,1,N/A
+2236845,"February 18, 2022",Texas,Houston,"600 block of Nottingham Oaks Trl",0,1,N/A
+2236700,"February 18, 2022",Illinois,Chicago,"2600 block of W 39th Pl",0,1,N/A
+2237226,"February 18, 2022",Texas,"San Antonio","100 block of Dublin Ave",1,0,N/A
+2237017,"February 18, 2022",Tennessee,Memphis,"1055 S Perkins Rd",0,1,N/A
+2236107,"February 17, 2022",Michigan,Detroit,"13580 block of Rosemont Ave",0,1,N/A
+2235843,"February 17, 2022",Arizona,Glendale,"65th Ave and Bethany Home Rd",1,0,N/A
+2236546,"February 17, 2022","South Carolina",Florence,"Apple Valley Dr and Howe Springs Rd",0,1,N/A
+2236220,"February 16, 2022",Georgia,Atlanta,"1012 Smith St SW",0,1,N/A
+2235787,"February 16, 2022",Texas,"Haltom City","3500 block of Eastridge Dr",0,1,N/A
+2234293,"February 14, 2022",Texas,Houston,"2900 Woodridge Dr",1,0,N/A
+2233880,"February 13, 2022","South Carolina",Beaufort,"2400 Southside Blvd",0,1,N/A
+2233175,"February 13, 2022",Maryland,Columbia,"5300 block of Village Center Dr",0,3,N/A
+2234119,"February 13, 2022",Alabama,Mobile,"301 Seabreeze Ct",0,1,N/A
+2233773,"February 12, 2022",Illinois,Danville,"N Bowman Ave and Griggs St",0,1,N/A
+2236234,"February 12, 2022",Mississippi,Meridian,"40th St and Highland Ave",0,2,N/A
+2232528,"February 12, 2022",Maryland,Annapolis,"140 Obery Ct",0,2,N/A
+2232980,"February 12, 2022",Ohio,Toledo,"1900 block of Collingwood Blvd",1,1,N/A
+2233300,"February 12, 2022",Louisiana,"Morgan City","2200 block of Maple St",1,0,N/A
+2232093,"February 11, 2022",Alabama,Montgomery,"N Decatur St and Graves St",1,0,N/A
+2231193,"February 10, 2022","South Carolina",Anderson,"600 block of Don Ave",0,1,N/A
+2233680,"February 9, 2022",Tennessee,Sevierville,"3700 block of Wears Valley Rd",0,1,N/A
+2230700,"February 9, 2022",Michigan,Wyoming,"2400 block of Meyer Ave SW",1,1,N/A
+2230580,"February 9, 2022",Tennessee,Memphis,"953 Doris Ave",0,1,N/A
+2230160,"February 9, 2022","North Carolina",Mebane,"6900 block of Industrial Dr",0,3,N/A
+2230072,"February 9, 2022","North Carolina",Asheville,N/A,0,1,N/A
+2230709,"February 9, 2022",Oklahoma,Fairland,"E 180 Rd and W Ritter Rd",0,1,N/A
+2229918,"February 8, 2022",Florida,"Hialeah (Miami Lakes)","6400 block of Miami Lakes Dr",3,0,N/A
+2234908,"February 8, 2022",Arizona,Phoenix,"7th St and Dobbins Rd",0,2,N/A
+2230026,"February 8, 2022",Texas,Houston,"9800 block of Southwest Fwy",0,1,N/A
+2236760,"February 7, 2022",Texas,Sweetwater,N/A,0,1,N/A
+2229136,"February 7, 2022",Michigan,Detroit,"Traverse St and Erwin Ave",0,1,N/A
+2227864,"February 6, 2022",Kentucky,Lexington,"572 N Upper St",2,0,N/A
+2228614,"February 6, 2022",Florida,Sarasota,"Palmadelia Ave and 22nd St",1,2,N/A
+2228660,"February 6, 2022","North Carolina",Wilmington,"200 block of North 31st St",0,4,N/A
+2228469,"February 6, 2022","New Jersey",Bridgeton,"Falcon St",0,1,N/A
+2227828,"February 6, 2022",Pennsylvania,Philadelphia,"3658 Aramingo Ave",0,1,N/A
+2228076,"February 6, 2022",Missouri,"Saint Louis (Spanish Lake)","1200 block of Scott Ave",0,2,N/A
+2227058,"February 5, 2022",Texas,Corsicana,"2919 W 2nd Ave",6,2,N/A
+2226920,"February 4, 2022",Florida,"Belle Glade","500 block of Southeast First St",1,0,N/A
+2229068,"February 4, 2022",Arizona,"El Mirage","12950 W Laurel Ln",3,0,N/A
+2226010,"February 3, 2022",Georgia,Griffin,"1110 W Poplar St",1,0,N/A
+2226545,"February 3, 2022",Texas,Houston,"12212 Tidwell Rd",1,0,N/A
+2225493,"February 2, 2022",California,Oroville,"410 Oro Dam Blvd E",1,4,N/A
+2224250,"February 1, 2022",Georgia,Columbus,"4200 block of Green Ridge Dr",1,0,N/A
+2226217,"February 1, 2022",Colorado,"Colorado Springs","3200 block of Heather Glen Dr",2,0,N/A
+2223807,"January 31, 2022","North Carolina",Charlotte,"W Sugar Creek Rd and Rutgers Ave",0,1,N/A
+2223741,"January 31, 2022",Wisconsin,Milwaukee,"W Capitol Dr and W Appleton Ave",0,1,N/A
+2223206,"January 30, 2022",Georgia,Snellville,"1650 Scenic Hwy S",0,1,N/A
+2223096,"January 30, 2022",Texas,Houston,"10555 Fondren Rd",0,1,N/A
+2223090,"January 30, 2022",Texas,"San Antonio","3536 West Ave",0,1,N/A
+2223402,"January 30, 2022",Kentucky,Lexington,"1101 Centre Pkwy",0,1,N/A
+2222806,"January 29, 2022",Nevada,"Las Vegas","NV-159 and Calico Canyon Rd",2,0,N/A
+2223014,"January 29, 2022",Arkansas,"Little Rock","4300 block of Asher Ave",0,2,N/A
+2222923,"January 29, 2022",Texas,Eustace,"Co Rd 2911",1,0,N/A
+2222988,"January 29, 2022",Louisiana,"Westwego (Bridge City)","900 block of Stillwell Ln",1,0,N/A
+2222453,"January 28, 2022",Ohio,Toledo,"2400 block of Airport Hwy",0,1,N/A
+2222546,"January 28, 2022",Maryland,Waldorf,"2000 Block of Amber Leaf Place",0,1,N/A
+2222811,"January 28, 2022",Nevada,Laughlin,"2445 Needles Hwy",1,2,N/A
+2221916,"January 28, 2022",Tennessee,Goodlettsville,"2844 Greer Rd",4,0,N/A
+2221551,"January 27, 2022",Virginia,Richmond,"1400 block of Clarkson Rd",0,2,N/A
+2222818,"January 27, 2022",Utah,"Brigham City",N/A,0,1,N/A
+2222816,"January 27, 2022",Utah,"Salt Lake City (Murray)","5234 S. 820 East",0,1,N/A
+2221591,"January 26, 2022",Kentucky,Owensboro,"100 block of E 25th St",1,2,N/A
+2219689,"January 24, 2022",Ohio,Somerville,"9290 Greenbush Rd",3,0,N/A
+2218867,"January 24, 2022",Georgia,Atlanta,"202 Anderson Ave",1,0,N/A
+2219376,"January 24, 2022",Indiana,Indianapolis,"1900 block of Dr Martin Luther King Jr St",0,1,N/A
+2219913,"January 23, 2022",Missouri,"Saint Louis","3700 block of Minnesota Ave",0,1,N/A
+2220271,"January 23, 2022",Arizona,Gilbert,"Pecos Rd and Higley Rd",0,2,N/A
+2217486,"January 22, 2022",Illinois,Chicago,"3900 block of W 26th St",1,1,N/A
+2218524,"January 22, 2022",Florida,"Port Saint Lucie","10460 Southwest Village Pkwy",2,0,N/A
+2217318,"January 22, 2022",Indiana,Indianapolis,"3800 block of N Temple Ave",0,1,N/A
+2219378,"January 22, 2022",Louisiana,"Baton Rouge","4200 block of Orchid St",0,1,N/A
+2218942,"January 21, 2022",Ohio,Akron,"500 block of Koerber Ave",0,1,N/A
+2217442,"January 21, 2022",Georgia,Grovetown,"300 block of Congling Cir",0,1,N/A
+2215951,"January 20, 2022",Kentucky,Louisville,"2500 block of Montgomery St",0,1,N/A
+2216560,"January 20, 2022",Florida,Pensacola,"500 E Fairfield Dr",0,1,N/A
+2215436,"January 19, 2022",Illinois,Chicago,"12200 block of S Lowe Ave",0,2,N/A
+2216245,"January 19, 2022",Texas,"San Antonio","200 block of Moraima St",0,2,N/A
+2216063,"January 19, 2022",Georgia,Atlanta,"1829 Campbellton Rd SW",0,1,N/A
+2216156,"January 19, 2022",Iowa,"Storm Lake","600 block of E 12th St",0,1,N/A
+2215173,"January 19, 2022","New York",Bronx,"2836 Valentine Ave",0,1,N/A
+2215246,"January 18, 2022","South Carolina",Greenville,"200 Eunice Dr",0,1,N/A
+2214465,"January 17, 2022","North Carolina","Spring Lake","Crest Cir",0,1,N/A
+2213707,"January 17, 2022",Texas,Houston,"5900 Selinsky Rd",0,3,N/A
+2214048,"January 17, 2022",Florida,Ocala,"600 block of SE 28th Place",0,1,N/A
+2215351,"January 16, 2022",Texas,"Del Rio","400 block of San Juan St",1,0,N/A
+2213661,"January 16, 2022",Missouri,"Saint Louis","Bessie Ave and Shreve Ave",0,1,N/A
+2212926,"January 16, 2022",Missouri,"Kansas City (Raytown)","8900 block of E 83 Ter",0,1,N/A
+2212218,"January 15, 2022",Wisconsin,Milwaukee,"1803 W Highland Ave",1,0,N/A
+2212316,"January 14, 2022",Kentucky,"Olive Hill",KY-955,0,2,N/A
+2212250,"January 14, 2022",Virginia,Charlottesville,"900 block of 1st St S",0,1,N/A
+2211482,"January 14, 2022",Michigan,Detroit,"595 Chene St",0,1,N/A
+2212123,"January 14, 2022",Georgia,Macon,"W Napier Ave and Mumford Rd",0,1,N/A
+2211727,"January 14, 2022",Alabama,Birmingham,"500 block of Roanoke St",0,1,N/A
+2210656,"January 13, 2022","New York",Rochester,"Glendale Park and Lake Ave",0,3,N/A
+2211111,"January 13, 2022",Illinois,Chicago,"50 block of E 79th St",0,2,N/A
+2209896,"January 12, 2022",Kentucky,Louisville,"1800 block of Carl Ct",0,1,N/A
+2210429,"January 12, 2022",Florida,"Land O Lakes (Land O' Lakes)","22000 block of Laver Ln",3,0,N/A
+2210266,"January 12, 2022",Florida,"Panama City (Callaway)","5000 block of E Seventh St",1,0,N/A
+2210478,"January 12, 2022",Georgia,Atlanta,"833 Harwell Rd NW",1,0,N/A
+2209838,"January 12, 2022",Arizona,Phoenix,"19th Ave and Thunderbird Rd",1,0,N/A
+2210042,"January 12, 2022",Virginia,Lynchburg,"700 block of Grady St",0,1,N/A
+2210511,"January 12, 2022",Tennessee,Memphis,"2115 Clayton Ave",1,0,N/A
+2209185,"January 11, 2022",Alabama,"Bessemer (Hueytown)","1400 block of 26th Ave",1,0,N/A
+2209231,"January 10, 2022",Alabama,Tuscaloosa,N/A,0,2,N/A
+2208081,"January 10, 2022",Indiana,Middlebury,"54348 Co Rd 43",0,2,N/A
+2207088,"January 8, 2022",Louisiana,Kenner,"3100 block of Tifton St",0,2,N/A
+2207445,"January 8, 2022",Georgia,Augusta,"2000 block of 3rd Ave",1,0,N/A
+2207308,"January 8, 2022",Ohio,"Brookpark (Brook Park)","5354 W 150th St",2,1,N/A
+2208129,"January 8, 2022",Georgia,Ellenwood,"Ridgetop Dr",0,1,N/A
+2207753,"January 8, 2022",Utah,"Salt Lake City (West Valley City)","1500 block of Calvo Dr",0,1,N/A
+2206546,"January 7, 2022",Michigan,Detroit,"6500 block of Brush St",0,1,N/A
+2205638,"January 6, 2022",Maryland,Clinton,"8500 block of Wendy St",2,1,N/A
+2205490,"January 6, 2022",Alabama,Tuscaloosa,"8700 block of Charolais Dr",3,0,N/A
+2206724,"January 6, 2022",Louisiana,Hammond,"Old Baton Rouge Hwy",0,1,N/A
+2205924,"January 5, 2022",Pennsylvania,Pittsburgh,"1400 block of Greensburg Pike",0,2,N/A
+2205134,"January 5, 2022","North Carolina","Spruce Pine","Deer Park Loop",0,1,N/A
+2210967,"January 5, 2022",Oklahoma,Lawton,"8802 NW Cache Rd",2,0,N/A
+2204583,"January 5, 2022",Texas,Granbury,"735 W US Hwy 377",0,2,N/A
+2205965,"January 5, 2022",Mississippi,Starkville,"Santa Anita Dr",1,0,N/A
+2204367,"January 4, 2022",Washington,Auburn,"2100 block of 66th St SE",3,0,N/A
+2204890,"January 4, 2022",Illinois,Decatur,"500 block of W Sawyer St",0,1,N/A
+2203234,"January 3, 2022",Arkansas,Bryant,"3500 Double Eagle Way",0,1,N/A
+2203153,"January 2, 2022",Michigan,"Grand Rapids (Kentwood)","52nd St SE and Division Ave S",0,1,N/A
+2204512,"January 2, 2022",Pennsylvania,Atglen,"400 block of Main St",0,2,N/A
+2202450,"January 1, 2022",Louisiana,"New Orleans","Decatur St and Spain St",0,1,N/A
+2202107,"January 1, 2022",Wisconsin,Milwaukee,"6000 block of N Sherman Blvd",0,1,N/A
+2201826,"January 1, 2022",Maryland,Baltimore,"1600 block of N Pulaski St",0,1,N/A
+2203909,"January 1, 2022",Texas,Houston,"3322 Yellowstone Blvd",0,1,N/A
+2202453,"January 1, 2022",Louisiana,"New Orleans","Edgelake Ct",0,1,N/A
+2208658,"January 1, 2022","New York",Syracuse,"100 block of Lawrence St",0,1,N/A
