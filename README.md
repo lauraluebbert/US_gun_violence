@@ -1,6 +1,7 @@
 # US_gun_violence
 
-Visualizations of gun violence in the US since 2014 using data from https://www.gunviolencearchive.org/
+Visualizations of gun violence in the US since 2014 using data from https://www.gunviolencearchive.org/. 
+Tweet thread: https://twitter.com/sinabooeshaghi/status/1529657217825136641?s=20&t=51hLO288Z1OBpEXQ-o6d6g
 
 ![correlation (1)](https://user-images.githubusercontent.com/56094636/170403693-5100d28e-5d29-401d-8e36-204e63807f3a.png)
 
